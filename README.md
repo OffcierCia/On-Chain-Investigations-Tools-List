@@ -2,7 +2,7 @@
 
 ❗️ [In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) ❗️
 
-#
+## All Blockchains & Cryptocurrencies:
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
@@ -54,7 +54,19 @@
 - [library.dedaub.com](http://library.dedaub.com)
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 
-## Support Project:
+## VR & 3D
+
+- [open source 3d and vr blockchain visualizations](https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2)
+- [symphony.iohk.io](https://symphony.iohk.io)
+- [visualizing bitcoin transactions in 3d and virtual reality](https://medium.com/coinmonks/visualizing-bitcoin-transactions-in-3d-and-virtual-reality-e3e28b3055df)
+- [bitcoin visualizations](www.lopp.net/bitcoin-information/visualizations.html)
+- [app.bubblemaps.io](https://app.bubblemaps.io)
+
+## Monero
+
+- [How one can deanonymize Monero to a certain degree of probability?](https://graph.org/How-one-can-deanonymize-Monero-to-a-certain-degree-of-probability-11-19)
+
+# Support Project
 
 Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
 
