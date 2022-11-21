@@ -4,6 +4,8 @@
 
 ## All Blockchains & Cryptocurrencies:
 
+Count: 48
+
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
 - [explorer.0x.org](https://explorer.0x.org)
