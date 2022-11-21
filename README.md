@@ -2,7 +2,7 @@
 
 ❗️ [In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) ❗️
 
-## All Blockchains & Cryptocurrencies:
+## All Blockchains & Cryptocurrencies
 
 Count: 48
 
