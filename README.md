@@ -108,6 +108,7 @@
 - [Investigating 3 Ethereum Addresses Using The Nansen Wallet Profiler](https://youtu.be/bhG4IrVhGhA)
 - [Investigations by ZachXBT](https://zachxbt.mirror.xyz)
 - [Follow My Twitter](https://twitter.com/officer_cia)
+- [My Article](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 
 # Support Project
 
