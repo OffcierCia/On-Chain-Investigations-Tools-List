@@ -136,6 +136,25 @@
 - [Follow My Twitter](https://twitter.com/officer_cia)
 - [My Article](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 
+## V - Follow
+
+- [List by ZachXBT](https://mobile.twitter.com/i/lists/1476992161409376269)
+- [Read this article about being an on-chain sleuth](https://anchainai.medium.com/defi-detectives-quickstart-guide-tools-for-the-crypto-sleuth-9c246d2ec23a)
+- [Read this article from Vice!](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
+- [MistTrack Twitter](https://twitter.com/MistTrack_io)
+- [On-Chain Analysis Threads](https://twitter.com/cryptoPothu/status/1536204331493363713)
+- [TheDEFIac](https://twitter.com/TheDEFIac)
+- [Follow on-chain Sleuth Twitter](https://mobile.twitter.com/Onchainsnoop)
+- [Follow PeckShieldAlert Twitter](https://mobile.twitter.com/PeckShieldAlert)
+- [Follow BlockSecTeam Twitter](https://mobile.twitter.com/BlockSecTeam)
+- [Follow lookonchain Twitter](https://mobile.twitter.com/lookonchain)
+- [Investigations by ZachXBT](https://zachxbt.mirror.xyz)
+- [Thread from CountZero](https://twitter.com/countze0/status/1541805338625818624)
+- [0xFooBar Twitter](https://twitter.com/0xfoobar)
+- [CryptoShine Twitter](https://twitter.com/CryptoShine)
+- [Immunefi Medium](https://immunefi.medium.com)
+- [Follow My Twitter](https://twitter.com/officer_cia)
+
 # Support Project
 
 Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
