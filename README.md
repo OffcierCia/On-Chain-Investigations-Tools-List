@@ -34,6 +34,8 @@
 - [tx2uml](http://github.com/naddison36/tx2uml)
 - [sol2uml](http://github.com/naddison36/sol2uml)
 - [evm-trace](https://github.com/ApeWorX/evm-trace)
+- [chainbound](apollo.chainbound.io)
+- [icevision.xyz](https://icevision.xyz)
 - [nansen.ai](https://nansen.ai)
 - [oxt.me](https://oxt.me)
 - [anchain.ai](http://anchain.ai)
