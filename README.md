@@ -92,7 +92,7 @@
 
 ## Knowledge Hub
 
-- [bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
+- [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [YouTube blog by bitquery](https://www.youtube.com/@bitquery)
 - [Blog by Misttrack.io](slowmist.medium.com/list/misttrack-updates-af37287fb66a)
 - [Knowledge-base by Breadcrumbs](https://learn.breadcrumbs.app)
