@@ -7,7 +7,7 @@
 
 ## All Blockchains & Cryptocurrencies
 
-Count: 48
+Count: 49
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
@@ -57,6 +57,7 @@ Count: 48
 - [stately.ai](https://stately.ai)
 - [cosmograph.app](https://cosmograph.app)
 - [sig.eth.samczsun.com](https://sig.eth.samczsun.com)
+- [watchers.pro](http://watchers.pro)
 - [library.dedaub.com](http://library.dedaub.com)
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 
