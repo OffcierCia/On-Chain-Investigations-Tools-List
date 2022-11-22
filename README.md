@@ -2,12 +2,11 @@
 
 ❗️ [In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 
-- Article link: [officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
+- [officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [Blog](https://officercia.mirror.xyz)
 
-## All Blockchains & Cryptocurrencies
+## Tools List
 
-Count: 52
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
