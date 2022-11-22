@@ -63,7 +63,6 @@
 - [TRM Labs](https://www.trmlabs.com/products/forensics)
 - [CoinPath](https://bitquery.io/products/coinpath)
 - [ChainBeat](https://chainbeat.io)
-- [graphsense.info](https://graphsense.info)
 - [sig.eth.samczsun.com](https://sig.eth.samczsun.com)
 - [watchers.pro](http://watchers.pro)
 - [library.dedaub.com](http://library.dedaub.com)
