@@ -21,6 +21,7 @@
 - [blockchain-etl](https://github.com/blockchain-etl/ethereum-etl)
 - [tenderly.co](https://tenderly.co)
 - [ethtective.com](https://ethtective.com)
+- [santiment.net](https://santiment.net)
 - [breadcrumbs.app](https://breadcrumbs.app)
 - [the wallet analyzooor Main](https://analyzooor.super.site)
 - [the wallet analyzooor No.2](http://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
