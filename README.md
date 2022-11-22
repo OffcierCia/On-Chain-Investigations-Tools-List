@@ -98,6 +98,7 @@
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [On-chain Analytics Archives](https://collectiveshift.io/on-chain-analytics)
+- [On-chain analysis is a great skill to learn...](https://twitter.com/cryptoPothu/status/1536204331493363713)
 - [On-Chain Investigations with Nick](https://youtu.be/CHCqS_ts9F8)
 - [Introduction to Bitcoin Investigation by Beatriz Silveira](https://youtu.be/ebXosUmHIoo)
 - [360° AML Analytics](https://youtu.be/zNd4zJEH3ZM)
