@@ -65,6 +65,7 @@
 - [parsec.finance](https://parsec.finance)
 - [etherscan.io](https://etherscan.io)
 - [blockchair.com](https://blockchair.com)
+- [cryptosheets.com](https://cryptosheets.com)
 - [blockscan.com](https://blockscan.com)
 - [cointool.app](https://cointool.app)
 - [ciphertrace.com](https://ciphertrace.com/solutions)
