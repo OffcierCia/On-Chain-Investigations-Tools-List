@@ -47,6 +47,7 @@
 - [tutela.xyz](https://tutela.xyz)
 - [crystalblockchain.com](http://crystalblockchain.com)
 - [elliptic.co](http://elliptic.co)
+- [arkhamintelligence](https://platform.arkhamintelligence.com/waitlist)
 - [impersonator.xyz](https://impersonator.xyz)
 - [maltego.com](https://maltego.com/transform-hub/tatum-blockchain-explorer)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
