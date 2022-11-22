@@ -149,6 +149,8 @@
 - [Follow BlockSecTeam Twitter](https://mobile.twitter.com/BlockSecTeam)
 - [Follow lookonchain Twitter](https://mobile.twitter.com/lookonchain)
 - [Investigations by ZachXBT](https://zachxbt.mirror.xyz)
+- [Rekt.News](https://rekt.news)
+- [Hacks DataBases](https://telegra.ph/Retrospective-hacks-in-web3-10-24)
 - [Thread from CountZero](https://twitter.com/countze0/status/1541805338625818624)
 - [0xFooBar Twitter](https://twitter.com/0xfoobar)
 - [CryptoShine Twitter](https://twitter.com/CryptoShine)
