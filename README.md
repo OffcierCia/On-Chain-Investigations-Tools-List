@@ -7,7 +7,7 @@
 
 ## All Blockchains & Cryptocurrencies
 
-Count: 49
+Count: 52
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
@@ -23,8 +23,8 @@ Count: 49
 - [tenderly.co](https://tenderly.co)
 - [ethtective.com](https://ethtective.com)
 - [breadcrumbs.app](https://breadcrumbs.app)
-- [analyzooor.super.site](https://analyzooor.super.site)
-- [the wallet analyzooor](http://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
+- [the wallet analyzooor Main](https://analyzooor.super.site)
+- [the wallet analyzooor No.2](http://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
 - [9000.hal.xyz](https://9000.hal.xyz)
 - [bloxy.info](https://bloxy.info)
 - [oko.palkeo.com](https://oko.palkeo.com)
@@ -41,6 +41,8 @@ Count: 49
 - [qlue.io](http://qlue.io)
 - [glasschain.org](http://glasschain.org)
 - [blockpath.com](https://blockpath.com)
+- [NFT icy.tools](https://icy.tools)
+- [zapper.fi](https://zapper.fi)
 - [graphsense.info](https://graphsense.info)
 - [tutela.xyz](https://tutela.xyz)
 - [crystalblockchain.com](http://crystalblockchain.com)
