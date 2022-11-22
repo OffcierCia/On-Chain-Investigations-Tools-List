@@ -38,7 +38,7 @@
 - [anchain.ai](http://anchain.ai)
 - [otterscan.io](https://otterscan.io)
 - [tryethernal.com](https://tryethernal.com)
-- [Solana FM](https://solana.fm
+- [Solana FM](https://solana.fm)
 - [reactor.chainalysis.com](http://reactor.chainalysis.com)
 - [footprint.network](https://footprint.network)
 - [qlue.io](http://qlue.io)
