@@ -9,6 +9,7 @@
 
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
+- [Explorers List](https://sovs.notion.site/Block-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
 - [walletexplorer.com](https://walletexplorer.com)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
 - [explorer.0x.org](https://explorer.0x.org)
