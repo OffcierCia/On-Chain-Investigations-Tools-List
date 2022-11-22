@@ -90,6 +90,25 @@
 
 - [How one can deanonymize Monero to a certain degree of probability?](https://graph.org/How-one-can-deanonymize-Monero-to-a-certain-degree-of-probability-11-19)
 
+## Knowledge Hub
+
+- [bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
+- [YouTube blog by bitquery](https://www.youtube.com/@bitquery)
+- [Blog by Misttrack.io](slowmist.medium.com/list/misttrack-updates-af37287fb66a)
+- [Knowledge-base by Breadcrumbs](https://learn.breadcrumbs.app)
+- [How to Trace Cryptocurrency Transactions Using Maltego](https://youtu.be/A7XhEvAgYz4)
+- [Analysing cryptocurrencies and Investigating blockchains by BitQuery](https://youtu.be/cCl7g4sll6I)
+- [BlockScout Walkthrough](https://youtu.be/Jb-EgQG3F2k)
+- [Blockchain Investigations 101: An Intro to Ethereum](https://youtu.be/mBW7djo_fg8)
+- [Verifying Smart Contracts using Blockscout](https://youtu.be/My4mfB43NPA)
+- [Maltego Ethereum Transform with SocialLinks and Bloxy.info - How to start](https://youtu.be/ml4JpqSGZik)
+- [Using Maltego and tatum to track the money trail of a bitcoin scam](https://blog.tatum.io/using-maltego-and-tatum-to-track-the-money-trail-of-a-bitcoin-scam-639ee5727dde)
+- [Tracking A Bitcoin Scam with Maltego & Tatum](https://youtu.be/0CnElCSQTF0)
+- [Dune analytics guide](https://collectiveshift.io/tools/dune-analytics-guide)
+- [Investigating 3 Ethereum Addresses Using The Nansen Wallet Profiler](https://youtu.be/bhG4IrVhGhA)
+- [Investigations by ZachXBT](https://zachxbt.mirror.xyz)
+- [Follow My Twitter](https://twitter.com/officer_cia)
+
 # Support Project
 
 Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
