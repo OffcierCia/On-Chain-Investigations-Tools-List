@@ -9,6 +9,7 @@
 
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
+- [walletexplorer.com](https://walletexplorer.com)
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
 - [explorer.0x.org](https://explorer.0x.org)
 - [misttrack.io](http://misttrack.io)
