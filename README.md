@@ -1,11 +1,11 @@
-# On-Chain Investigations Tools List
+# Awesome On-Chain Investigations Tools & Learning Resources List
 
 ❗️ [In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 
 - [officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [Blog](https://officercia.mirror.xyz)
 
-## Tools List
+## I - Tools List
 
 
 - [explorer.bitquery.io](https://explorer.bitquery.io)
@@ -79,7 +79,7 @@
 - [library.dedaub.com](http://library.dedaub.com)
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 
-## VR & 3D
+## II - VR & 3D
 
 - [open source 3d and vr blockchain visualizations](https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2)
 - [symphony.iohk.io](https://symphony.iohk.io)
@@ -87,11 +87,11 @@
 - [bitcoin visualizations](www.lopp.net/bitcoin-information/visualizations.html)
 - [app.bubblemaps.io](https://app.bubblemaps.io)
 
-## Monero
+## III - Monero
 
 - [How one can deanonymize Monero to a certain degree of probability?](https://graph.org/How-one-can-deanonymize-Monero-to-a-certain-degree-of-probability-11-19)
 
-## Knowledge Hub
+## IV - Knowledge Hub
 
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
