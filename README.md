@@ -93,6 +93,14 @@
 ## Knowledge Hub
 
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
+- [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
+- [On-chain Analytics Archives](https://collectiveshift.io/on-chain-analytics)
+- [On-Chain Investigations with Nick](https://youtu.be/CHCqS_ts9F8)
+- [Introduction to Bitcoin Investigation by Beatriz Silveira](https://youtu.be/ebXosUmHIoo)
+- [360° AML Analytics](https://youtu.be/zNd4zJEH3ZM)
+- [How cryptocurrency intelligence aids ransomware investigations](https://youtu.be/q6GKVKwWz0s)
+- [Clustering transactions in Bitcoin and other cryptocurrencies](https://s-tikhomirov.github.io/transaction-clustering-bitcoin)
+- [Tracking Bitcoin Transactions](https://youtu.be/T_3dMKCFXf0)
 - [YouTube blog by bitquery](https://www.youtube.com/@bitquery)
 - [Blog by Misttrack.io](slowmist.medium.com/list/misttrack-updates-af37287fb66a)
 - [Knowledge-base by Breadcrumbs](https://learn.breadcrumbs.app)
