@@ -1,7 +1,24 @@
-# Awesome On-Chain Investigations Tools & Learning Resources
+# Awesome On-Chain Forensic HandBook
+
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
+       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
 
 
-❗️ **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:** [Link](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
+```
+
+________                   _________ .__           .__         ___________                               .__           ___ ___                    .____________               __    
+\_____  \   ____           \_   ___ \|  |__ _____  |__| ____   \_   _____/__________  ____   ____   _____|__| ____    /   |   \_____    ____    __| _|______   \ ____   ____ |  | __
+ /   |   \ /    \   ______ /    \  \/|  |  \\__  \ |  |/    \   |    __)/  _ \_  __ \/ __ \ /    \ /  ___/  |/ ___\  /    ~    \__  \  /    \  / __ | |    |  _//  _ \ /  _ \|  |/ /
+/    |    \   |  \ /_____/ \     \___|   Y  \/ __ \|  |   |  \  |     \(  <_> )  | \|  ___/|   |  \\___ \|  \  \___  \    Y    // __ \|   |  \/ /_/ | |    |   (  <_> |  <_> )    < 
+\_______  /___|  /          \______  /___|  (____  /__|___|  /  \___  / \____/|__|   \___  >___|  /____  >__|\___  >  \___|_  /(____  /___|  /\____ | |______  /\____/ \____/|__|_ \
+        \/     \/                  \/     \/     \/        \/       \/                   \/     \/     \/        \/         \/      \/     \/      \/        \/                   \/
+
+
+```
+
+
+> Note: ❗️ **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:** [Link](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 
 
 | Section                         | Link                                                                                           |
