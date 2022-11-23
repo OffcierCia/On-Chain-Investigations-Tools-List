@@ -195,6 +195,7 @@ ________                   _________ .__           .__         ___________      
 - [Hacks DataBases](https://telegra.ph/Retrospective-hacks-in-web3-10-24)
 - [Thread from CountZero](https://twitter.com/countze0/status/1541805338625818624)
 - [0xFooBar Twitter](https://twitter.com/0xfoobar)
+- [OXT Blog](https://medium.com/oxt-research)
 - [CryptoShine Twitter](https://twitter.com/CryptoShine)
 - [Immunefi Medium](https://immunefi.medium.com)
 - [Follow My Twitter](https://twitter.com/officer_cia)
