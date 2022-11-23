@@ -105,6 +105,7 @@ ________                   _________ .__           .__         ___________      
 - [ciphertrace.com](https://ciphertrace.com/solutions)
 - [TRM Labs](https://www.trmlabs.com/products/forensics)
 - [CoinPath](https://bitquery.io/products/coinpath)
+- [CryptocurrencyAlerting](https://cryptocurrencyalerting.com)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot)
 - [app.bubblemaps.io](https://app.bubblemaps.io)
 - [DarkBTCGraph](https://github.com/netoeuler/darkbitcoingraph)
