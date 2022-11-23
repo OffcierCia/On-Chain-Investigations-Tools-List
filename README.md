@@ -78,6 +78,7 @@
 - [TRM Labs](https://www.trmlabs.com/products/forensics)
 - [CoinPath](https://bitquery.io/products/coinpath)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot)
+- [app.bubblemaps.io](https://app.bubblemaps.io)
 - [DarkBTCGraph](https://github.com/netoeuler/darkbitcoingraph)
 - [ChainBeat](https://chainbeat.io)
 - [sig.eth.samczsun.com](https://sig.eth.samczsun.com)
@@ -91,7 +92,6 @@
 - [symphony.iohk.io](https://symphony.iohk.io)
 - [visualizing bitcoin transactions in 3d and virtual reality](https://medium.com/coinmonks/visualizing-bitcoin-transactions-in-3d-and-virtual-reality-e3e28b3055df)
 - [bitcoin visualizations](www.lopp.net/bitcoin-information/visualizations.html)
-- [app.bubblemaps.io](https://app.bubblemaps.io)
 
 ## III - Monero
 
