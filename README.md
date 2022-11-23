@@ -1,9 +1,10 @@
 # Awesome On-Chain Investigations Tools & Learning Resources
 
-❗️ [In this article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
+❗️ **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:**
 
 - [officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
-- [Blog](https://officercia.mirror.xyz)
+- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [My Blog on HackerNoon](https://hackernoon.com/u/officercia)
 
 ## I - Tools List
 
