@@ -97,6 +97,7 @@ ________                   _________ .__           .__         ___________      
 - [cosmograph.app](https://cosmograph.app)
 - [parsec.finance](https://parsec.finance)
 - [etherscan.io](https://etherscan.io)
+- [sochain.com](https://sochain.com)
 - [web3cat](https://github.com/monoand6/web3cat)
 - [blockchair.com](https://blockchair.com)
 - [cryptosheets.com](https://cryptosheets.com)
