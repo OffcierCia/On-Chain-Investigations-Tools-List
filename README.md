@@ -216,7 +216,6 @@ You can also send me a donation to the address from [this repository](https://gi
 **Check out as well:**
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
-- [My Blog on HackerNoon](https://hackernoon.com/u/officercia)
 
 Thank you! 🙏 
 
