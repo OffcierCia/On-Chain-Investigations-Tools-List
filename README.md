@@ -114,6 +114,7 @@ ________                   _________ .__           .__         ___________      
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](ethcmd.com)
 - [sochain](sochain.com)
+- [Bitcoin Investigations](https://research.oxt.me)
 - [library.dedaub.com](http://library.dedaub.com)
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 
