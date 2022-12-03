@@ -134,6 +134,8 @@ ________                   _________ .__           .__         ___________      
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [On-chain Analytics Archives](https://collectiveshift.io/on-chain-analytics)
+- [BreadCrumbs KnowledgeHub](https://learn.breadcrumbs.app/)
+- [BreadCrumbs Investigator Directory](https://www.breadcrumbs.app/investigator-directory)
 - [On-chain analysis is a great skill to learn...](https://twitter.com/cryptoPothu/status/1536204331493363713)
 - [On-Chain Investigations with Nick](https://youtu.be/CHCqS_ts9F8)
 - [Introduction to Bitcoin Investigation by Beatriz Silveira](https://youtu.be/ebXosUmHIoo)
@@ -202,6 +204,7 @@ ________                   _________ .__           .__         ___________      
 - [OXT Blog](https://medium.com/oxt-research)
 - [CryptoShine Twitter](https://twitter.com/CryptoShine)
 - [Immunefi Medium](https://immunefi.medium.com)
+- [X-Explore](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [Follow My Twitter](https://twitter.com/officer_cia)
 
 # Support Project
