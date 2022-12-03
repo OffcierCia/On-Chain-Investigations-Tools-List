@@ -175,6 +175,8 @@ ________                   _________ .__           .__         ___________      
 - [Dune analytics guide](https://collectiveshift.io/tools/dune-analytics-guide)
 - [Dune client](https://github.com/cowprotocol/dune-client), [Dune Snippets](https://github.com/sambacha/dune-snippets), [Python Dune](https://github.com/itzmestar/duneanalytics)
 - [Dune Manual](https://twitter.com/defi_mochi/status/1598478592329252864)
+- [Exploration of Cryptocurrencies](https://medium.com/@ibederov_en/lets-talk-about-the-exploration-of-cryptocurrencies-9ece06dcf796)
+- [Etherscan 101](https://www.youtube.com/watch?v=spnwIsE5ziQ)
 - [Investigating 3 Ethereum Addresses Using The Nansen Wallet Profiler](https://youtu.be/bhG4IrVhGhA)
 - [Ethereum (ETH) OSINT investigations tools](https://medium.com/@ibederov_en/ethereum-eth-osint-investigations-tools-7d1ec5deab1e)
 - [Eherscan Manual](https://medium.com/@TrustChain/hacking-etherscan-2-creating-fake-token-transfer-25c786cf24e9)
