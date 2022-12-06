@@ -146,6 +146,8 @@ ________                   _________ .__           .__         ___________      
 - [How to become an on-chain detective](https://twitter.com/thedefiac/status/1512983745988419588)
 - [Investigating Blockchain](https://ipfs.io/ipfs/QmZs5rE4pmhgz8ixf2B7rgGHXp7k14eLnSbRNPBSpGRNMs)
 - [Profiling Ethereum users](https://arxiv.org/pdf/2005.14051.pdf)
+- [explorer.forta.network](https://explorer.forta.network)
+- [Tenderly Explorer](https://docs.tenderly.co/explorer)
 - [ETH Gossip](https://ipfs.io/ipfs/QmU2Y13jHsKJEcEuf3UjiknHCo9rDEYZpu4oQP6fU9XM93)
 - [Practical Deanonymization Attack in Ethereum](https://ipfs.io/ipfs/QmZQLWi7V6XTsNnAZe6AHTvpaPiQnmH5r8brqkteMdVt8i)
 - [The Challenges of Investigating Cryptocurrencies and Blockchain Related Crime](https://ipfs.io/ipfs/QmZs5rE4pmhgz8ixf2B7rgGHXp7k14eLnSbRNPBSpGRNMs)
