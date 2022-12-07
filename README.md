@@ -210,6 +210,7 @@ ________                   _________ .__           .__         ___________      
 - [List by ZachXBT](https://mobile.twitter.com/i/lists/1476992161409376269)
 - [Read this article about being an on-chain sleuth](https://anchainai.medium.com/defi-detectives-quickstart-guide-tools-for-the-crypto-sleuth-9c246d2ec23a)
 - [Read this article from Vice!](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
+- [Folllow Frankresearcher](https://twitter.com/frankresearcher)
 - [MistTrack Twitter](https://twitter.com/MistTrack_io)
 - [On-Chain Analysis Threads](https://twitter.com/cryptoPothu/status/1536204331493363713)
 - [TheDEFIac](https://twitter.com/TheDEFIac)
