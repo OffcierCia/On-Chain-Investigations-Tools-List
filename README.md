@@ -141,6 +141,8 @@ ________                   _________ .__           .__         ___________      
 
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
+- [UTXO Model](https://en.m.wikipedia.org/wiki/Unspent_transaction_output)
+- [Account Model](https://www.horizen.io/blockchain-academy/technology/expert/utxo-vs-account-model/)
 - [On-chain Analytics Archives](https://collectiveshift.io/on-chain-analytics)
 - [BreadCrumbs KnowledgeHub](https://learn.breadcrumbs.app/)
 - [BreadCrumbs Investigator Directory](https://www.breadcrumbs.app/investigator-directory)
