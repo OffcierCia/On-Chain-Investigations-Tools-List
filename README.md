@@ -104,6 +104,7 @@ ________                   _________ .__           .__         ___________      
 - [blockchair.com](https://blockchair.com)
 - [cryptosheets.com](https://cryptosheets.com)
 - [blockscan.com](https://blockscan.com)
+- [nft analyst starter pack](https://github.com/a16z/nft-analyst-starter-pack)
 - [cointool.app](https://cointool.app)
 - [ciphertrace.com](https://ciphertrace.com/solutions)
 - [TRM Labs](https://www.trmlabs.com/products/forensics)
