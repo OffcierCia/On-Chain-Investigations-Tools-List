@@ -221,6 +221,7 @@ ________                   _________ .__           .__         ___________      
 - [Follow bax1337](https://twitter.com/bax1337)
 - [Follow](https://twitter.com/JasunTate/status/1603473012774211585)
 - [Read this article from Vice!](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
+- [OtterSec](https://twitter.com/osec_io)
 - [Folllow Frankresearcher](https://twitter.com/frankresearcher)
 - [MistTrack Twitter](https://twitter.com/MistTrack_io)
 - [On-Chain Analysis Threads](https://twitter.com/cryptoPothu/status/1536204331493363713)
