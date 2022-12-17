@@ -135,6 +135,8 @@ ________                   _________ .__           .__         ___________      
 - [Bitcoin Investigations](https://research.oxt.me)
 - [library.dedaub.com](http://library.dedaub.com)
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
+- [whatsABI](https://github.com/shazow/whatsabi)
+- [abi-guesser](https://github.com/samczsun/abi-guesser)
 
 ## II - VR & 3D
 
