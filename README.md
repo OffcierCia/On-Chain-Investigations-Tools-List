@@ -254,6 +254,20 @@ ________                   _________ .__           .__         ___________      
 - [X-Explore](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [Follow My Twitter](https://twitter.com/officer_cia)
 
+## VI - My Works
+
+**| Special Author's Notes:**
+
+- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [My Blog on Medium](https://officercia.medium.com)
+
+**Articles:**
+
+- [What you should do if you think someone has stolen your crypto-assets](https://officercia.mirror.xyz/wSvKI5p91-GYcun1aAyMMjNbpkgKnp7qIxVIqc1sXZk)
+- [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
+- [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
+- [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
+
 # Support Project
 
 Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
