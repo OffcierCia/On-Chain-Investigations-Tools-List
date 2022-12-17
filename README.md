@@ -267,6 +267,7 @@ ________                   _________ .__           .__         ___________      
 - [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
+- [100 BTC deadman drops: Silk Road](https://officercia.mirror.xyz/bekcfdWBwPh4FIzYNKfhaaorjYB90JbNRUb2oiSjiJI)
 
 # Support Project
 
