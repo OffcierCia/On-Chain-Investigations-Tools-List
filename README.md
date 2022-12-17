@@ -261,7 +261,7 @@ ________                   _________ .__           .__         ___________      
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
-**Articles:**
+**| Articles:**
 
 - [What you should do if you think someone has stolen your crypto-assets](https://officercia.mirror.xyz/wSvKI5p91-GYcun1aAyMMjNbpkgKnp7qIxVIqc1sXZk)
 - [Attacks via a Representative Sample : Myths and Reality](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
