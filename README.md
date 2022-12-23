@@ -18,6 +18,8 @@ ________                   _________ .__           .__         ___________      
 
 > Note: ❗️ **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology:** [Link](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 
+- **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author** ❗️
+
 
 | Section                         | Link                                                                                           |
 |---------------------------------|------------------------------------------------------------------------------------------------|
