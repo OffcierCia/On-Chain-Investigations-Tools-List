@@ -59,6 +59,7 @@ ________                   _________ .__           .__         ___________      
 - [the wallet analyzooor No.2](https://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
 - [9000.hal.xyz](https://9000.hal.xyz)
 - [bloxy.info](https://bloxy.info)
+- [Bloxy.info Example](https://twitter.com/spencernoon/status/1228775982699601926)
 - [oko.palkeo.com](https://oko.palkeo.com)
 - [zeromev.org](https://zeromev.org)
 - [dune.xyz](https://dune.xyz)
