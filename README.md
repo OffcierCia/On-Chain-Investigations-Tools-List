@@ -150,6 +150,7 @@ ________                   _________ .__           .__         ___________      
 - [library.dedaub.com](https://library.dedaub.com)
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 - [whatsABI](https://github.com/shazow/whatsabi)
+- [Visualize ERC20 token transfers in Truffle Tests](https://www.npmjs.com/package/truffle-token-test-utils)
 - [abi-guesser](https://github.com/samczsun/abi-guesser)
 
 ## II - VR & 3D
@@ -169,6 +170,7 @@ ________                   _________ .__           .__         ___________      
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [UTXO Model](https://en.m.wikipedia.org/wiki/Unspent_transaction_output)
+- [Ethereum archive nodes](https://betterprogramming.pub/accessing-ethereum-archive-nodes-with-infura-f40b46a04f15)
 - [OSINT Basics](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Account Model](https://www.horizen.io/blockchain-academy/technology/expert/utxo-vs-account-model/)
 - [On-chain Analytics Archives](https://collectiveshift.io/on-chain-analytics)
