@@ -194,6 +194,8 @@ ________                   _________ .__           .__         ___________      
 - [Following the Breadcrumbs: Tracing Cryptocurrencies in Fraud Investigations](https://youtu.be/dUpmFViXVnI)
 - [Accelerating Investigations Using the Crypto Analysis Transaction Visualization](https://medium.com/sentinel-protocol/accelerating-investigations-using-the-crypto-analysis-transaction-visualization-catv-eec51565048c)
 - [How (Not) To React When Your Cryptocurrency Is Stolen](https://medium.com/@cipherblade/how-not-to-react-when-your-cryptocurrency-is-stolen-92f7c72616af)
+- [Data Visualization Tools](https://www.freecodecamp.org/news/data-visualization-tools-guide)
+- [Data visualization](https://www.freecodecamp.org/news/tag/data-visualization)
 - [Quickly Create Visual Stunning Blockchain Data Graphs and Charts in JavaScript](https://www.fusioncharts.com/blog/quickly-create-visual-stunning-blockchain-data-graphs-and-charts-in-javascript)
 - [An Investigation into Methods for Taint Analysis](https://www.academia.edu/41640878/Probing_the_Mystery_of_Cryptocurrency_Theft_An_Investigation_into_Methods_for_Taint_Analysis)
 - [Making Blockchain Analytics Easy](https://slowmist.medium.com/misttrack-making-blockchain-analytics-easy-6148bb9d83c9)
