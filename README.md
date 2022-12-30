@@ -114,6 +114,7 @@ ________                   _________ .__           .__         ___________      
 - [ethtective.com](https://ethtective.com)
 - [breadcrumbs.app](https://breadcrumbs.app)
 - [metadock](https://github.com/blocksecteam/metadock)
+- [watchers.pro](https://watchers.pro)
 
 **Specific:**
 
