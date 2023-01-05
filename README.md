@@ -202,8 +202,11 @@ ________                   _________ .__           .__         ___________      
 
 ## IV - Knowledge Hub
 
+- [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
+- [Due Diligence](https://www.investopedia.com/terms/d/duediligence.asp)
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
+- [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [UTXO Model](https://en.m.wikipedia.org/wiki/Unspent_transaction_output)
 - [Ethereum archive nodes](https://betterprogramming.pub/accessing-ethereum-archive-nodes-with-infura-f40b46a04f15)
 - [OSINT Basics](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
