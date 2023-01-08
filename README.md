@@ -44,6 +44,7 @@ ________                   _________ .__           .__         ___________      
 - [Explorers List](https://sovs.notion.site/Block-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
 - [explorer.0x.org](https://explorer.0x.org)
 - [watchers.pro](https://watchers.pro)
+- [0xscope.com](https://0xscope.com)
 - [dune.xyz](https://dune.xyz)
 - [duneninja.com for dune.xyz](https://duneninja.com)
 - [ethplorer.io](https://ethplorer.io)
