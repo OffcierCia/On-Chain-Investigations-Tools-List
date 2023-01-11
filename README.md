@@ -49,6 +49,8 @@ ________                   _________ .__           .__         ___________      
 - [duneninja.com for dune.xyz](https://duneninja.com)
 - [ethplorer.io](https://ethplorer.io)
 - [cryptoflows.info](https://cryptoflows.info)
+- [glassnode.com](https://glassnode.com)
+- [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon)
 - [Alethio](https://medium.com/alethio/exploring-blockchain-data-with-alethio-aa2a541d0b4d)
 - [Tenderly Dashboard](https://dashboard.tenderly.co/tx/mainnet/0xb6c202de0a3fb3a8025f9331a0c0fd5775296ffb3d39796861953fac8b1419ef)
 - [Dune Dashboard](https://twitter.com/andrewhong5297/status/1608494653573062658)
