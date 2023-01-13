@@ -190,6 +190,7 @@ ________                   _________ .__           .__         ___________      
 - [DappRadar](https://dappradar.com)
 - [DeFi MetaLens](http://www.metarational.net/lens/crypto_defi)
 - [Twitter Nansen - Moivre](http://moivre.xyz)
+- [abi guesser](https://github.com/samczsun/abi-guesser)
 - [xrpintel.com](https://xrpintel.com/waterfall)
 - [ethereplay.valid.network](https://ethereplay.valid.network)
 - [nft analyst starter pack](https://github.com/a16z/nft-analyst-starter-pack)
