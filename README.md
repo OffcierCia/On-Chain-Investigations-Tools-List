@@ -71,6 +71,8 @@ ________                   _________ .__           .__         ___________      
 
 - [phalcon.blocksec.com](https://phalcon.blocksec.com)
 - [Icevision.xyz](https://icevision.xyz/landing)
+- [flourish.studio](https://flourish.studio)
+- [app.bubblemaps.io](https://app.bubblemaps.io/eth)
 - [explorer.bitquery.io](https://explorer.bitquery.io)
 - [cruise.supremacy.team](https://cruise.supremacy.team)
 - [blockscout.com](https://blockscout.com)
