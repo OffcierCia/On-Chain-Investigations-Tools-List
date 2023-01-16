@@ -140,6 +140,7 @@ ________                   _________ .__           .__         ___________      
 - [Tenderly Explorer](https://docs.tenderly.co/explorer)
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](https://ethcmd.com)
+- [parsec.finance](https://parsec.finance)
 - [sochain](https://sochain.com)
 - [getblock](https://getblock.net)
 - [sicp.ueba.su](https://sicp.ueba.su)
