@@ -61,6 +61,7 @@ ________                   _________ .__           .__         ___________      
 - [app.bubblemaps.io](https://app.bubblemaps.io)
 - [spiderfoot.net](https://spiderfoot.net)
 - [graphsense.info](https://graphsense.info)
+- [shard.ru](https://shard.ru)
 - [analybits](https://analybits.xyz)
 - [cosmograph.app](https://cosmograph.app)
 - [parsec.finance](https://parsec.finance)
