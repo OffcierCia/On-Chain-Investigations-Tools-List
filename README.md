@@ -187,6 +187,8 @@ ________                   _________ .__           .__         ___________      
 - [socketscan.io](https://socketscan.io)
 - [btcparser.com](https://btcparser.com)
 - [chainbound](https://apollo.chainbound.io)
+- [forta ENS spoofing](https://github.com/kovart/forta-ens-spoofing)
+- [cointool.app](https://cointool.app)
 - [otterscan.io](https://otterscan.io)
 - [tryethernal.com](https://tryethernal.com)
 - [ChainBeat](https://chainbeat.io)
