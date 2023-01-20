@@ -204,6 +204,7 @@ ________                   _________ .__           .__         ___________      
 - [ethereplay.valid.network](https://ethereplay.valid.network)
 - [nft analyst starter pack](https://github.com/a16z/nft-analyst-starter-pack)
 - [cointool.app](https://cointool.app)
+- [bitinfocharts.com](https://bitinfocharts.com)
 - [kycp.org](https://kycp.org/#/)
 - [cryptostats.community](https://cryptostats.community)
 - [gmi.io](https://wgmi.io)
