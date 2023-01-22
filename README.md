@@ -254,6 +254,8 @@ ________                   _________ .__           .__         ___________      
 - [Address Poisoning  Attack](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [Bitcoin and Cryptocurrency Forensic Investigation](https://www.udemy.com/course/bitcoin-and-cryptocurrency-forensic-investigation-osint)
 - [Investigation of AML Instances Around Blockchain Technology](https://slowmist.medium.com/investigation-of-aml-instances-around-blockchain-technology-for-the-first-half-of-2022-faff3e4bd6e)
+- [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
+- [OSINT cryptocurrency](https://www.advisor-bm.com/post/osint-cryptocurrency-2022)
 - [How to use Breadcrumbs.app?](https://twitter.com/appbreadcrumbs/status/1552489020617211904)
 - [Following the Breadcrumbs: Tracing Cryptocurrencies in Fraud Investigations](https://youtu.be/dUpmFViXVnI)
 - [Accelerating Investigations Using the Crypto Analysis Transaction Visualization](https://medium.com/sentinel-protocol/accelerating-investigations-using-the-crypto-analysis-transaction-visualization-catv-eec51565048c)
