@@ -148,6 +148,7 @@ ________                   _________ .__           .__         ___________      
 - [parsec.finance](https://parsec.finance)
 - [sochain](https://sochain.com)
 - [getblock](https://getblock.net)
+- [coinalyze.net](https://coinalyze.net)
 - [sicp.ueba.su](https://sicp.ueba.su)
 - [solidlint.com](https://www.solidlint.com)
 - [bitinfocharts](https://bitinfocharts.com)
