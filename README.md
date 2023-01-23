@@ -332,6 +332,10 @@ ________                   _________ .__           .__         ___________      
 - [20 regular expressions examples to search for data related to cryptocurrencies](https://medium.com/@cyb_detective/20-regular-expressions-examples-to-search-for-data-related-to-cryptocurrencies-43e31dd4a5dc)
 - [Analysing On-chain Data](https://savecoins.medium.com/analysing-on-chain-data-for-financial-audits-of-centralized-crypto-companies-4bfda9aed7b2)
 - [Nansen Research Portal](https://research.nansen.ai/article/485/eoy-compilation-report)
+- [World check KYC screening](https://www.refinitiv.com/en/products/world-check-kyc-screening)
+- [Database: world-check.com](https://www.world-check.com/frontend/login)
+- [SWIFT Kyc](https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/kyc-registry)
+- [MaxMind IP DB](https://www.maxmind.com/en/home)
 - [Investigations by ZachXBT](https://zachxbt.mirror.xyz)
 - [Follow My Twitter](https://twitter.com/officer_cia)
 - [My Article](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
@@ -381,7 +385,7 @@ ________                   _________ .__           .__         ___________      
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [100 BTC deadman drops: Silk Road](https://officercia.mirror.xyz/bekcfdWBwPh4FIzYNKfhaaorjYB90JbNRUb2oiSjiJI)
-- [If you have been scammed…](https://telegra.ph/If-you-have-been-scammed-01-01)
+- [If you have been scammed…](https://medium.com/@officercia/if-you-have-been-scammed-9ce21ee120e6)
 
 # Support Project
 
