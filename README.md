@@ -245,6 +245,7 @@ ________                   _________ .__           .__         ___________      
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [Investigation Tools & Guides](https://start.me/p/ek4rxK)
+- [effectiveaml.org](https://www.effectiveaml.org)
 - [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [UTXO Model](https://en.m.wikipedia.org/wiki/Unspent_transaction_output)
 - [Ethereum archive nodes](https://betterprogramming.pub/accessing-ethereum-archive-nodes-with-infura-f40b46a04f15)
