@@ -208,6 +208,7 @@ ________                   _________ .__           .__         ___________      
 - [cointool.app](https://cointool.app)
 - [bitinfocharts.com](https://bitinfocharts.com)
 - [kycp.org](https://kycp.org/#/)
+- [osintframework.com](https://osintframework.com)
 - [cryptostats.community](https://cryptostats.community)
 - [gmi.io](https://wgmi.io)
 - [sourcify.com](https://www.sourcify.com)
