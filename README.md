@@ -269,6 +269,7 @@ ________                   _________ .__           .__         ___________      
 - [360° AML Analytics](https://youtu.be/zNd4zJEH3ZM)
 - [How to use OSINT in Cryptocurrency Investigations?](https://medium.com/ax1al/using-osint-to-investigate-cryptocurrency-transactions-7229f64c671a)
 - [How To Investigate Cryptocurrency Crimes Using Blockchain Explorers & OSINT Tools](https://web.archive.org/web/20220820023651/https://www.1337pwn.com/how-to-investigate-cryptocurrency-crimes-using-blockchain-explorers-and-osint-tools)
+- [Flash Boys 2.0:Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Address Poisoning  Attack](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [Bitcoin and Cryptocurrency Forensic Investigation](https://www.udemy.com/course/bitcoin-and-cryptocurrency-forensic-investigation-osint)
