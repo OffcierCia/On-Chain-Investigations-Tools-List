@@ -240,6 +240,7 @@ ________                   _________ .__           .__         ___________      
 - [A Deep Dive into Crypto Custody](https://research.binance.com/static/pdf/wallets-deep-dive.pdf)
 - [UTXO VS Account Model](https://www.horizen.io/blockchain-academy/technology/expert/utxo-vs-account-model/#:~:text=The%20UTXO%20model%20is%20a,constructions%2C%20as%20well%20a%20sharding.)
 - [UTXO model in Bitcoin Vs Account/Balance Model Ethereum](https://arunrajeevan.medium.com/utxo-model-in-bitcoin-vs-account-balance-model-ethereum-c5b47865e9e1)
+- [Spin up your own Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node)
 - [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#Story)
 - [Maltego Blog](https://www.maltego.com/blog)
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
