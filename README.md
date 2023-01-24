@@ -150,6 +150,7 @@ ________                   _________ .__           .__         ___________      
 - [sochain](https://sochain.com)
 - [getblock](https://getblock.net)
 - [coinalyze.net](https://coinalyze.net)
+- [Smart Contract Storage Slot Reader](https://evm-slotreader.on.fleek.co)
 - [sicp.ueba.su](https://sicp.ueba.su)
 - [solidlint.com](https://www.solidlint.com)
 - [bitinfocharts](https://bitinfocharts.com)
