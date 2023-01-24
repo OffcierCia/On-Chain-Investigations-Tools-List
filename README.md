@@ -287,6 +287,7 @@ ________                   _________ .__           .__         ___________      
 - [Data visualization](https://www.freecodecamp.org/news/tag/data-visualization)
 - [Quickly Create Visual Stunning Blockchain Data Graphs and Charts in JavaScript](https://www.fusioncharts.com/blog/quickly-create-visual-stunning-blockchain-data-graphs-and-charts-in-javascript)
 - [An Investigation into Methods for Taint Analysis](https://www.academia.edu/41640878/Probing_the_Mystery_of_Cryptocurrency_Theft_An_Investigation_into_Methods_for_Taint_Analysis)
+- [Bonus OSINT Twitter Crypto toolset](https://graph.org/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Making Blockchain Analytics Easy](https://slowmist.medium.com/misttrack-making-blockchain-analytics-easy-6148bb9d83c9)
 - [How to become an on-chain detective](https://twitter.com/thedefiac/status/1512983745988419588)
 - [Investigating Blockchain](https://ipfs.io/ipfs/QmZs5rE4pmhgz8ixf2B7rgGHXp7k14eLnSbRNPBSpGRNMs)
