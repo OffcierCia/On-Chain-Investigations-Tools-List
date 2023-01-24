@@ -153,6 +153,7 @@ ________                   _________ .__           .__         ___________      
 - [Smart Contract Storage Slot Reader](https://evm-slotreader.on.fleek.co)
 - [sicp.ueba.su](https://sicp.ueba.su)
 - [solidlint.com](https://www.solidlint.com)
+- [A Windows 95 themed UI for interacting with Ethereum smart contracts](https://eth95.dev)
 - [bitinfocharts](https://bitinfocharts.com)
 - [AML Toolbox](https://start.me/p/rxeRqr/aml-toolbox)
 - [BTC Wallet Recovery Tool](https://github.com/gabcvit/find-my-btc-wallet)
