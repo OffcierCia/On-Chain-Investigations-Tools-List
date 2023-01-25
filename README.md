@@ -62,6 +62,7 @@ ________                   _________ .__           .__         ___________      
 - [evm-trace](https://github.com/ApeWorX/evm-trace)
 - [app.bubblemaps.io](https://app.bubblemaps.io)
 - [spiderfoot.net](https://spiderfoot.net)
+- [openchain.xyz/signatures](https://openchain.xyz/signatures)
 - [graphsense.info](https://graphsense.info)
 - [shard.ru](https://shard.ru)
 - [analybits](https://analybits.xyz)
