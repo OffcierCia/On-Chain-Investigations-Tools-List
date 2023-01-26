@@ -218,6 +218,8 @@ ________                   _________ .__           .__         ___________      
 - [dETH Node](https://github.com/dethcrypto/deth)
 - [txio view react](https://www.npmjs.com/package/@ertravi/txio-view-react)
 - [yogh.io](https://yogh.io/landing)
+- [snowflake.com](https://www.snowflake.com/en)
+- [coins95.web.app](https://coins95.web.app/coins)
 - [CryptocurrencyAlerting](https://cryptocurrencyalerting.com)
 - [BTC kycp](https://kycp.org/#/)
 - [btcrecover](https://github.com/gurnec/btcrecover)
