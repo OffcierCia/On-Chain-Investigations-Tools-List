@@ -49,7 +49,6 @@
 - [tx2uml](https://github.com/naddison36/tx2uml)
 - [sol2uml](https://github.com/naddison36/sol2uml)
 - [evm-trace](https://github.com/ApeWorX/evm-trace)
-- [app.bubblemaps.io](https://app.bubblemaps.io)
 - [spiderfoot.net](https://spiderfoot.net)
 - [www.sharkteam.org](https://www.sharkteam.org)
 - [openchain.xyz/signatures](https://openchain.xyz/signatures)
@@ -119,8 +118,6 @@
 - [TRM Labs](https://www.trmlabs.com/products/forensics)
 - [CoinPath](https://bitquery.io/products/coinpath)
 - [Storyline](https://blog.chainalysis.com/reports/introducing-chainalysis-storyline)
-- [ethtective.com](https://ethtective.com)
-- [breadcrumbs.app](https://breadcrumbs.app)
 - [metadock](https://github.com/blocksecteam/metadock)
 
 **Specific:**
