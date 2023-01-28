@@ -85,8 +85,7 @@
 - [SkyTrace](https://www.certik.com/skytrace)
 - [maltego.com](https://maltego.com/transform-hub/tatum-blockchain-explorer)
 - [Orbit](https://github.com/s0md3v/Orbit)
-- [OrbitV2](https://www.kitploit.com/2019/07/orbit-v20-blockchain-transactions.html?amp=0)
-- [maltego.com](https://maltego.com/transform-hub/tatum-blockchain-explorer)
+- [Orbit(2)](https://www.kitploit.com/2019/07/orbit-v20-blockchain-transactions.html?amp=0)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [OrbitV2](https://www.kitploit.com/2019/07/orbit-v20-blockchain-transactions.html?amp=0)
@@ -123,7 +122,6 @@
 - [ethtective.com](https://ethtective.com)
 - [breadcrumbs.app](https://breadcrumbs.app)
 - [metadock](https://github.com/blocksecteam/metadock)
-- [watchers.pro](https://watchers.pro)
 
 **Specific:**
 
@@ -136,7 +134,6 @@
 - [Tenderly Explorer](https://docs.tenderly.co/explorer)
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](https://ethcmd.com)
-- [parsec.finance](https://parsec.finance)
 - [sochain](https://sochain.com)
 - [getblock](https://getblock.net)
 - [coinalyze.net](https://coinalyze.net)
