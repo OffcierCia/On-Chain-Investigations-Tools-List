@@ -86,8 +86,6 @@
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [Orbit(2)](https://www.kitploit.com/2019/07/orbit-v20-blockchain-transactions.html?amp=0)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
-- [Orbit](https://github.com/s0md3v/Orbit)
-- [OrbitV2](https://www.kitploit.com/2019/07/orbit-v20-blockchain-transactions.html?amp=0)
 - [web3cat](https://github.com/monoand6/web3cat)
 - [blockchair.com](https://blockchair.com)
 - [cryptosheets.com](https://cryptosheets.com)
