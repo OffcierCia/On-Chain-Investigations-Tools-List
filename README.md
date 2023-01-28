@@ -236,6 +236,7 @@
 - [Spin up your own Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node)
 - [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#Story)
 - [Maltego Blog](https://www.maltego.com/blog)
+- [How to use MetaSleuth to analyze a phishing attack](https://blocksecteam.medium.com/metasleuth-how-to-use-metasleuth-to-analyze-a-phishing-attack-b525caac14c5)
 - [Bitcoin analysis from bitquery](https://bitquery.io/blog/bitcoin-analysis)
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [Investigation Tools & Guides](https://start.me/p/ek4rxK)
