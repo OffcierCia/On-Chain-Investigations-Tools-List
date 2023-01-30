@@ -202,6 +202,7 @@
 - [snowflake.com](https://www.snowflake.com/en)
 - [artemis.xyz](https://app.artemis.xyz/dashboard)
 - [blockpour.com](https://app.blockpour.com)
+- [Lasso](https://lasso.gg)
 - [chainbroker.io](https://chainbroker.io)
 - [cryptofees.info](https://cryptofees.info)
 - [stablecoins.wtf](https://stablecoins.wtf)
@@ -232,6 +233,9 @@
 
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Due Diligence](https://www.investopedia.com/terms/d/duediligence.asp)
+- [Books & Researches](https://telegra.ph/Books--Researches-01-30)
+- [How To Research a Project (High Level)](https://onchainwizard.substack.com/p/issue-3-how-to-research-a-project)
+- [DarkNet Investigations](https://youtu.be/Mt48YkxskSE)
 - [A Deep Dive into Crypto Custody](https://research.binance.com/static/pdf/wallets-deep-dive.pdf)
 - [UTXO VS Account Model](https://www.horizen.io/blockchain-academy/technology/expert/utxo-vs-account-model/#:~:text=The%20UTXO%20model%20is%20a,constructions%2C%20as%20well%20a%20sharding.)
 - [Supremacy: How to analyze transactions with Cruise?](https://medium.com/@Supremacy_Official/supremacy-how-to-analyze-transactions-with-cruise-62617bc6ef2d)
