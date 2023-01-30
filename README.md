@@ -12,9 +12,6 @@
 - [If you have been scammed…](https://officercia.medium.com/if-you-have-been-scammed-9ce21ee120e6)
 - [Thank you, vice.com, for a mention!](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
 
-## I - Tools List
-
-
 
 | Section                         | Link                                                                                           |
 |---------------------------------|------------------------------------------------------------------------------------------------|
@@ -26,6 +23,8 @@
 | Support Project                 | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#support-project)    |
 | A Walkthrough by officercia.eth | [Explore](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)           |
 
+
+## I - Tools List
 
 **Data-Analysis:**
 
