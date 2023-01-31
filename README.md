@@ -39,6 +39,7 @@
 - [duneninja.com for dune.xyz](https://duneninja.com)
 - [ethplorer.io](https://ethplorer.io)
 - [cryptoflows.info](https://cryptoflows.info)
+- [parsiq.net](https://www.parsiq.net)
 - [glassnode.com](https://glassnode.com)
 - [ledgerql.com](https://ledgerql.com)
 - [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon)
