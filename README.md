@@ -248,6 +248,7 @@
 - [A Deep Dive into Crypto Custody](https://research.binance.com/static/pdf/wallets-deep-dive.pdf)
 - [UTXO VS Account Model](https://www.horizen.io/blockchain-academy/technology/expert/utxo-vs-account-model/#:~:text=The%20UTXO%20model%20is%20a,constructions%2C%20as%20well%20a%20sharding.)
 - [Supremacy: How to analyze transactions with Cruise?](https://medium.com/@Supremacy_Official/supremacy-how-to-analyze-transactions-with-cruise-62617bc6ef2d)
+- [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops](https://www.youtube.com/watch?v=iq9iw3-fkIE&list=WL&index=115)
 - [UTXO model in Bitcoin Vs Account/Balance Model Ethereum](https://arunrajeevan.medium.com/utxo-model-in-bitcoin-vs-account-balance-model-ethereum-c5b47865e9e1)
 - [Awesome Blogs](https://start.me/w/nPprJD)
 - [What happens when you send one DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
