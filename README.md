@@ -210,6 +210,7 @@
 - [chainbroker.io](https://chainbroker.io)
 - [cryptofees.info](https://cryptofees.info)
 - [stablecoins.wtf](https://stablecoins.wtf)
+- [tellor.io](https://tellor.io/data-feed)
 - [nanoly.com](https://nanoly.com)
 - [tally.xyz](https://www.tally.xyz)
 - [token.unlocks.app](https://token.unlocks.app)
