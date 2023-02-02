@@ -40,6 +40,7 @@
 - [cryptoflows.info](https://cryptoflows.info)
 - [parsiq.net](https://www.parsiq.net)
 - [glassnode.com](https://glassnode.com)
+- [thegraph.com](https://thegraph.com/)
 - [ledgerql.com](https://ledgerql.com)
 - [Erigon Archive Nodes](https://github.com/ledgerwatch/erigon)
 - [Alethio](https://medium.com/alethio/exploring-blockchain-data-with-alethio-aa2a541d0b4d)
@@ -179,6 +180,7 @@
 - [otterscan.io](https://otterscan.io)
 - [tryethernal.com](https://tryethernal.com)
 - [ChainBeat](https://chainbeat.io)
+- [blockdaemon.com](https://blockdaemon.com)
 - [sig.eth.samczsun.com](https://sig.eth.samczsun.com)
 - [Vscode Solidity Inspector](https://github.com/PraneshASP/vscode-solidity-inspector/tree/v0.0.3)
 - [impersonator.xyz](https://impersonator.xyz)
@@ -225,6 +227,7 @@
 - [solmap.zeppelin.solutions](https://solmap.zeppelin.solutions)
 - [blockfence](https://chrome.google.com/webstore/detail/blockfence/cpgbcelefhmacblaocimfilfnchkghba)
 - [lunaray.co](https://lunaray.co/contract)
+- [bitaml.com](https://bitaml.com)
 - [btcrecover](https://github.com/gurnec/btcrecover)
 - [explorer.forta.network](https://explorer.forta.network)
 
