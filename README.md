@@ -134,6 +134,8 @@
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](https://ethcmd.com)
 - [sochain](https://sochain.com)
+- [Surya](https://github.com/ConsenSys/surya)
+- [A VSCode extension for inspecting solidity smartcontracts using Forge](https://github.com/PraneshASP/vscode-solidity-inspector)
 - [getblock](https://getblock.net)
 - [coinalyze.net](https://coinalyze.net)
 - [Smart Contract Storage Slot Reader](https://evm-slotreader.on.fleek.co)
