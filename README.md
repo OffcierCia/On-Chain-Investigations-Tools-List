@@ -283,6 +283,7 @@
 - [EVM deep dive](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
 - [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency)
 - [Math & Cryptography](https://xn--2-umb.com)
+- [Getting Started with Phalcon 2.0v](https://blocksecteam.medium.com/getting-started-with-phalcon-2-0-253da584ca91)
 - [Unmasking Venom Spider](https://www.esentire.com/web-native-pages/unmasking-venom-spider)
 - [Spin up your own Ethereum node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node)
 - [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#Story)
