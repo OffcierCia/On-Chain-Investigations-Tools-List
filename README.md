@@ -313,6 +313,7 @@
 - [Retrospective: Hacks in Web3](https://officercia.medium.com/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Introduction to Bitcoin Investigation by Beatriz Silveira](https://youtu.be/ebXosUmHIoo)
 - [360° AML Analytics](https://youtu.be/zNd4zJEH3ZM)
+- [Visualize the bitcoin blockchain Transforms in Maltego](https://web.archive.org/web/20220629214609/https://www.maltego.com/transform-hub/blockchain-info)
 - [How to use OSINT in Cryptocurrency Investigations?](https://medium.com/ax1al/using-osint-to-investigate-cryptocurrency-transactions-7229f64c671a)
 - [How To Investigate Cryptocurrency Crimes Using Blockchain Explorers & OSINT Tools](https://web.archive.org/web/20220820023651/https://www.1337pwn.com/how-to-investigate-cryptocurrency-crimes-using-blockchain-explorers-and-osint-tools)
 - [Flash Boys 2.0:Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
