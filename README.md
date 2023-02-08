@@ -190,6 +190,7 @@
 - [Twitter Nansen - Moivre](http://moivre.xyz)
 - [abi guesser](https://github.com/samczsun/abi-guesser)
 - [xrpintel.com](https://xrpintel.com/waterfall)
+- [Tally](https://www.tally.xyz)
 - [ethereplay.valid.network](https://ethereplay.valid.network)
 - [nft analyst starter pack](https://github.com/a16z/nft-analyst-starter-pack)
 - [cointool.app](https://cointool.app)
