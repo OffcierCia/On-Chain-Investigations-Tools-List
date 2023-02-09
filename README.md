@@ -224,6 +224,7 @@
 - [codeslaw.app](https://www.codeslaw.app) & [tutorial](https://twitter.com/0xren_cf/status/1620175250230226945)
 - [coins95.web.app](https://coins95.web.app/coins)
 - [CryptocurrencyAlerting](https://cryptocurrencyalerting.com)
+- [Ramen EVM](https://github.com/dyng/ramen)
 - [BTC kycp](https://kycp.org/#/)
 - [thedatafi.com](https://thedatafi.com)
 - [cookbook.dev](https://www.cookbook.Dev)
