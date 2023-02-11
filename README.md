@@ -308,6 +308,7 @@
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [Investigation Tools & Guides](https://start.me/p/ek4rxK)
 - [effectiveaml.org](https://www.effectiveaml.org)
+- [An interesting, fun and well written article about AML](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 - [Running Erigon After the Merge](https://magnushansson.xyz/blog_posts/crypto_defi/2022-09-15-Erigon-Merge)
 - [Run a LightHouse Node](https://lighthouse-book.sigmaprime.io/run_a_node.html)
 - [Bitcoin Visualization Tools](https://www.lopp.net/bitcoin-information/visualizations.html)
