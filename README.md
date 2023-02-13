@@ -215,6 +215,7 @@
 - [stablecoins.wtf](https://stablecoins.wtf)
 - [tellor.io](https://tellor.io/data-feed)
 - [nanoly.com](https://nanoly.com)
+- [cointool.app](https://cointool.app)
 - [tally.xyz](https://www.tally.xyz)
 - [token.unlocks.app](https://token.unlocks.app)
 - [defi-lab.xyz](https://defi-lab.xyz)
