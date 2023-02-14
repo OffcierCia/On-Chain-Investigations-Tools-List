@@ -254,6 +254,7 @@
 - [Erigon + Otterscan](https://github.com/wmitsuda/erigon/tree/otterscan-develop/cmd/rpcdaemon/commands)
 - [IP DB](https://www.maxmind.com/en/home)
 - [Diagram Builder](https://www.yworks.com/yed-live/)
+- [A tool for organizing info](https://obsidian.md/)
 - [GitHub Search](https://grep.app/search?q=verifyCallResult&filter[path][0]=contracts)
 - [Eigen](https://chrome.google.com/webstore/detail/eigentx/gmjkhhheaknfaekapfiedhohdilpmgci)
 - [KYC check-out](https://www.world-check.com/frontend/login)
