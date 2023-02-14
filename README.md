@@ -235,6 +235,7 @@
 - [intelx.io](https://intelx.io)
 - [bitcoinwhoswho.com](https://www.bitcoinwhoswho.com)
 - [bitcoinabuse.com](https://www.bitcoinabuse.com)
+- [Contract Diff Checker](https://raz0r.name/releases/contract-diff)
 - [tokenterminal.com](https://tokenterminal.com)
 - [poocoin.app](https://poocoin.app)
 - [rugdoc.io](https://rugdoc.io/emergency)
