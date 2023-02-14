@@ -125,6 +125,7 @@
 
 **Specific:**
 
+- [Web3, Crypto, Metaverse and NFT resources for OSINT investigations](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff#metaverse)
 - [the wallet analyzooor Main](https://analyzooor.super.site)
 - [the wallet analyzooor No.2](https://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
 - [9000.hal.xyz](https://9000.hal.xyz)
@@ -317,6 +318,7 @@
 - [How Cryptocurrency Transactions Work](https://youtu.be/Q-X4MgoKGPg)
 - [Investigation Tools & Guides](https://start.me/p/ek4rxK)
 - [effectiveaml.org](https://www.effectiveaml.org)
+- [Web3, Crypto, Metaverse and NFT resources for OSINT investigations](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff#metaverse)
 - [An interesting, fun and well written article about AML](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 - [Running Erigon After the Merge](https://magnushansson.xyz/blog_posts/crypto_defi/2022-09-15-Erigon-Merge)
 - [Run a LightHouse Node](https://lighthouse-book.sigmaprime.io/run_a_node.html)
