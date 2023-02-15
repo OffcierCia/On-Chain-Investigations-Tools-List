@@ -356,7 +356,6 @@
 - [Bonus OSINT Twitter Crypto toolset](https://graph.org/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Making Blockchain Analytics Easy](https://slowmist.medium.com/misttrack-making-blockchain-analytics-easy-6148bb9d83c9)
 - [How to become an on-chain detective](https://twitter.com/thedefiac/status/1512983745988419588)
-- [Investigating Blockchain](https://ipfs.io/ipfs/QmZs5rE4pmhgz8ixf2B7rgGHXp7k14eLnSbRNPBSpGRNMs)
 - [Profiling Ethereum users](https://arxiv.org/pdf/2005.14051.pdf)
 - [ETH Gossip](https://ipfs.io/ipfs/QmU2Y13jHsKJEcEuf3UjiknHCo9rDEYZpu4oQP6fU9XM93)
 - [Practical Deanonymization Attack in Ethereum](https://ipfs.io/ipfs/QmZQLWi7V6XTsNnAZe6AHTvpaPiQnmH5r8brqkteMdVt8i)
