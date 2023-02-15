@@ -149,8 +149,6 @@
 - [footprint.network](https://footprint.network)
 - [qlue.io](https://qlue.io)
 - [glasschain.org](https://glasschain.org)
-- [eth tx decoder](https://antoncoding.github.io/eth-tx-decoder)
-- [tenderly.co](https://tenderly.co)
 - [santiment.net](https://app.santiment.net/sign-up)
 - [oko.palkeo.com](https://oko.palkeo.com)
 - [zeromev.org](https://zeromev.org)
