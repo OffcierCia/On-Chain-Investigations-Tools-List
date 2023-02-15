@@ -198,6 +198,8 @@
 - [blockpour.com](https://app.blockpour.com)
 - [Lasso](https://lasso.gg)
 - [Valid.Network](https://valid.network/crypto-insights)
+- [Draw EVM contract byte code](https://github.com/DanielVF/evm-contract-draw)
+- [Twitter Social Graph](https://github.com/Nican/Furland)
 - [chainbroker.io](https://chainbroker.io)
 - [cryptofees.info](https://cryptofees.info)
 - [stablecoins.wtf](https://stablecoins.wtf)
