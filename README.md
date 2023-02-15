@@ -1,14 +1,14 @@
 # Awesome On-Chain Investigations HandBook
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
-  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
-       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
+[![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base)
+[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![👮‍♂️ Validate Links](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/actions/workflows/ci.yml/badge.svg)](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/actions/workflows/ci.yml)
 
 > **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author! Follow InfoSec and [OpSec](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) guidelines and perform all of your research on a separate, secure device!**
 
-
 | Section                         | Link                                                                                           |
-|---------------------------------|------------------------------------------------------------------------------------------------|
+| ------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Tools List                      | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#i---tools-list)     |
 | VR & 3D Tools List              | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#ii---vr--3d)        |
 | Monero                          | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#iii---monero)       |
@@ -16,7 +16,6 @@
 | Follow List                     | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#v---follow)         |
 | Support Project                 | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#support-project)    |
 | A Walkthrough by officercia.eth | [Explore](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)           |
-
 
 > **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!**
 
@@ -271,7 +270,6 @@
 - [www.registry.gov.sc](https://www.registry.gov.sc)
 - [services.gov.im](https://services.gov.im)
 
-
 ## II - VR & 3D
 
 - [open source 3d and vr blockchain visualizations](https://ethresear.ch/t/open-source-3d-and-vr-blockchain-visualizations/3297/2)
@@ -350,7 +348,7 @@
 - [How To Investigate Cryptocurrency Crimes Using Blockchain Explorers & OSINT Tools](https://web.archive.org/web/20220820023651/https://www.1337pwn.com/how-to-investigate-cryptocurrency-crimes-using-blockchain-explorers-and-osint-tools)
 - [Flash Boys 2.0:Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
 - [How can you become a one-man-army OSINT specialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
-- [Address Poisoning  Attack](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
+- [Address Poisoning Attack](https://mirror.xyz/x-explore.eth/cL3d_CyNujXq8XY7ueP4omNXx_IY1EG5Dz0FD0vJ90M)
 - [Bitcoin and Cryptocurrency Forensic Investigation](https://www.udemy.com/course/bitcoin-and-cryptocurrency-forensic-investigation-osint)
 - [Investigation of AML Instances Around Blockchain Technology](https://slowmist.medium.com/investigation-of-aml-instances-around-blockchain-technology-for-the-first-half-of-2022-faff3e4bd6e)
 - [Awesome Ethereum staking](https://hackmd.io/@jyeAs_6oRjeDk2Mx5CZyBw/awesome-ethereum-staking)
@@ -511,7 +509,6 @@ You can also send me a donation to the address from [this repository](https://gi
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 
-Thank you! 🙏 
+Thank you! 🙏
 
 #
-
