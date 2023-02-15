@@ -389,7 +389,7 @@
 - [A graph visualization of Bitcoin transactions using Sigma.js](https://github.com/rautio/bitcoin-graph-viz)
 - [Tracking Bitcoin Transactions on the Blockchain](https://youtu.be/1iwsouV8ouQ)
 - [Toward forensically sound cryptocurrency investigation](https://dfrws.org/wp-content/uploads/2022/03/BlockQuery-Toward-forensically-sound-c_2022_Forensic-Science-International-1-1.pdf)
-- [Safeguarding the evidential value of forensic cryptocurrency investigations](https://www.researchgate.net/publication/339752613_Safeguarding_the_evidential_value_of_forensic_cryptocurrency_investigations)
+- [Safeguarding the evidential value of forensic cryptocurrency investigations](https://www.semanticscholar.org/paper/Safeguarding-the-Evidential-Value-of-Forensic-Fr%C3%B6wis-Gottschalk/dede5aebf87c6e8d29c6dad724596d0c59e6eee6) & [Link2](https://www.researchgate.net/publication/339752613_Safeguarding_the_evidential_value_of_forensic_cryptocurrency_investigations)!
 - [Enhancing Ethereum Blockchain Investigations Using OSINT](https://www.sans.org/webcasts/enhancing-ethereum-blockchain-investigations-using-osint)
 - [Blockchain Investigations 101: An Intro to Ethereum](https://youtu.be/mBW7djo_fg8)
 - [Verifying Smart Contracts using Blockscout](https://youtu.be/My4mfB43NPA)
@@ -430,7 +430,6 @@
 - [Follow bax1337](https://twitter.com/bax1337)
 - [Follow LookOnChain](https://twitter.com/lookonchain)
 - [Follow](https://twitter.com/JasunTate/status/1603473012774211585)
-- [Read this article from Vice!](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
 - [OtterSec](https://twitter.com/osec_io)
 - [Folllow Frankresearcher](https://twitter.com/frankresearcher)
 - [MistTrack Twitter](https://twitter.com/MistTrack_io)
