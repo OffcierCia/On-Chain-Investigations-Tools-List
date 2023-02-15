@@ -250,6 +250,19 @@
 - [apollo.io](https://www.apollo.io)
 - [offshoreleaks.icij.org](https://offshoreleaks.icij.org)
 - [aleph.occrp.org](https://aleph.occrp.org)
+- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
+- [ADF](https://github.com/ong/awesome-decentralized-finance) 
+- [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
+- [BlockTools](https://github.com/nujabes403/blockchains-tools)
+- [SAW List](https://simpleaswater.com/defi/#analytics)
+- [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
+- [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
+- [EVM Tools](https://github.com/CoinCulture/evm-tools)
+- [EVM Networks List](https://chainid.network)
+- [FindETH](https://findeth.io) 
+- [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
+- [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
+- [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
 
 
 ## II - VR & 3D
@@ -278,6 +291,8 @@
 - [messari](https://messari.io)
 - [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops](https://www.youtube.com/watch?v=iq9iw3-fkIE&list=WL&index=115)
 - [UTXO model in Bitcoin Vs Account/Balance Model Ethereum](https://arunrajeevan.medium.com/utxo-model-in-bitcoin-vs-account-balance-model-ethereum-c5b47865e9e1)
+- [Solidity Pro](https://github.com/bkrem/awesome-solidity)
+- [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md)
 - [Awesome Blogs](https://start.me/w/nPprJD)
 - [What happens when you send one DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
 - [EVM deep dive](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
