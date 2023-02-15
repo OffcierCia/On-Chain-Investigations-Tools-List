@@ -125,7 +125,7 @@
 - [Web3, Crypto, Metaverse and NFT resources for OSINT investigations](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff#metaverse)
 - [the wallet analyzooor Main](https://analyzooor.super.site)
 - [the wallet analyzooor No.2](https://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
-- [9000.hal.xyz](https://9000.hal.xyz)
+- [hal.xyz](https://www.hal.xyz), example: [9000.hal.xyz](https://9000.hal.xyz)
 - [bytegraph.xyz](https://bytegraph.xyz)
 - [Gephi](https://gephi.org/users/download)
 - [Tenderly Explorer](https://docs.tenderly.co/explorer)
