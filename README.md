@@ -75,7 +75,6 @@
 - [Anitanalysis - open in TorBrowser](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion)
 - [bloxy.info](https://bloxy.info)
 - [Bloxy.info Example](https://twitter.com/spencernoon/status/1228775982699601926)
-- [metadockteam](https://twitter.com/metadockteam)
 - [oxt.me](https://oxt.me)
 - [anchain.ai](https://twitter.com/anchainai)
 - [blockpath.com](https://blockpath.com)
