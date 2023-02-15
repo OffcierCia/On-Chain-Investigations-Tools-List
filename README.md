@@ -1,14 +1,15 @@
 # Awesome On-Chain Investigations HandBook
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
-  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
-       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md)
+[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+[![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base)
+[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![👮‍♂️ Validate Links](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/actions/workflows/ci.yml/badge.svg)](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/actions/workflows/ci.yml)
 
 > **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author! Follow InfoSec and [OpSec](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) guidelines and perform all of your research on a separate, secure device!**
 
-
 | Section                         | Link                                                                                           |
-|---------------------------------|------------------------------------------------------------------------------------------------|
+| ------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Tools List                      | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#i---tools-list)     |
 | VR & 3D Tools List              | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#ii---vr--3d)        |
 | Monero                          | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#iii---monero)       |
@@ -16,7 +17,6 @@
 | Follow List                     | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#v---follow)         |
 | Support Project                 | [Explore](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List#support-project)    |
 | A Walkthrough by officercia.eth | [Explore](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)           |
-
 
 > **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!**
 
@@ -238,7 +238,7 @@
 - [Eigen](https://chrome.google.com/webstore/detail/eigentx/gmjkhhheaknfaekapfiedhohdilpmgci)
 - [EVM Tools](https://github.com/CoinCulture/evm-tools)
 - [EVM Networks List](https://chainid.network)
-- [FindETH](https://findeth.io) 
+- [FindETH](https://findeth.io)
 - [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
 - [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
@@ -256,7 +256,6 @@
 - [aleph.occrp.org](https://aleph.occrp.org)
 - [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
 - [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
-
 
 ## II - VR & 3D
 
@@ -308,8 +307,8 @@
 - [Archive Nodes - Everything You Need to Know](https://www.alchemy.com/overviews/archive-nodes)
 - [Ethereum Full Node vs Archive Node](https://www.quicknode.com/guides/infrastructure/ethereum-full-node-vs-archive-node)
 - [Unveiling Bitcoin Nodes: A Comprehensive Guide for Beginners 2023](https://mpost.io/bitcoin-nodes-explained-a-beginners-guide/)
-- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
-- [ADF](https://github.com/ong/awesome-decentralized-finance) 
+- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools)
+- [ADF](https://github.com/ong/awesome-decentralized-finance)
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 - [Web3, Crypto, Metaverse and NFT resources for OSINT investigations](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff#metaverse)
 - [An interesting, fun and well written article about AML](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
@@ -495,7 +494,6 @@ You can also send me a donation to the address from [this repository](https://gi
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 
-Thank you! 🙏 
+Thank you! 🙏
 
 #
-
