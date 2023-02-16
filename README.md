@@ -122,6 +122,7 @@
 **Specific:**
 
 - [Web3, Crypto, Metaverse and NFT resources for OSINT investigations](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff#metaverse)
+- [How to analyse on-chain activity?](https://faithful-roast-308.notion.site/Project-Spec-adcb21774b0046de8fbf676cdccf9d1f)
 - [the wallet analyzooor Main](https://analyzooor.super.site)
 - [the wallet analyzooor No.2](https://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
 - [hal.xyz](https://www.hal.xyz), example: [9000.hal.xyz](https://9000.hal.xyz)
@@ -286,6 +287,7 @@
 - [messari](https://messari.io)
 - [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops](https://www.youtube.com/watch?v=iq9iw3-fkIE&list=WL&index=115)
 - [UTXO model in Bitcoin Vs Account/Balance Model Ethereum](https://arunrajeevan.medium.com/utxo-model-in-bitcoin-vs-account-balance-model-ethereum-c5b47865e9e1)
+- [Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/10.1145/3460120.3485369)
 - [Solidity Pro](https://github.com/bkrem/awesome-solidity)
 - [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md)
 - [Awesome Blogs](https://start.me/w/nPprJD)
