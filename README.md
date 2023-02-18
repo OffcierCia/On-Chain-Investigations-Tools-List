@@ -91,6 +91,7 @@
 - [cryptosheets.com](https://cryptosheets.com)
 - [stately.ai](https://stately.ai)
 - [etherscan.io](https://etherscan.io)
+- [Full label data dump of etherscan in JSON/CSV](https://github.com/brianleect/etherscan-labels)
 - [sochain.com](https://sochain.com)
 - [address tx search by web3rekt](https://www.web3rekt.com/address-tx-search)
 - [blockscan.com](https://blockscan.com)
