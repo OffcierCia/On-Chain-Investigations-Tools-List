@@ -59,7 +59,6 @@
 - [analybits](https://analybits.xyz)
 - [cosmograph.app](https://cosmograph.app)
 - [parsec.finance](https://parsec.finance)
-- [SpiderFoot](https://github.com/smicallef/spiderfoot)
 - [jsoncrack.com](https://jsoncrack.com)
 
 **Visualization:**
@@ -73,6 +72,7 @@
 - [blockscout.com](https://blockscout.com)
 - [ethtective.com](https://ethtective.com)
 - [breadcrumbs.app](https://breadcrumbs.app)
+- [BloodHound](https://www.thehacker.recipes/ad/recon/bloodhound)
 - [Anitanalysis - open in TorBrowser](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion)
 - [bloxy.info](https://bloxy.info)
 - [Bloxy.info Example](https://twitter.com/spencernoon/status/1228775982699601926)
@@ -136,6 +136,11 @@
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](https://github.com/bit-warrior/ethcmd)
 - [Surya](https://github.com/ConsenSys/surya)
+- [dexterlab.com](https://dexterlab.com)
+- [dappradar.com](https://dappradar.com)
+- [dextools.io](https://www.dextools.io/app/)
+- [uniwhales.io](https://uniwhales.io)
+- [earni.fi](https://earni.fi/)
 - [A VSCode extension for inspecting solidity smartcontracts using Forge](https://github.com/PraneshASP/vscode-solidity-inspector)
 - [getblock](https://getblock.net)
 - [coinalyze.net](https://coinalyze.net)
