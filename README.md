@@ -300,6 +300,7 @@
 - [A Deep Dive into Crypto Custody](https://research.binance.com/static/pdf/wallets-deep-dive.pdf)
 - [UTXO VS Account Model](https://www.horizen.io/blockchain-academy/technology/expert/utxo-vs-account-model/#:~:text=The%20UTXO%20model%20is%20a,constructions%2C%20as%20well%20a%20sharding.)
 - [Supremacy: How to analyze transactions with Cruise?](https://medium.com/@Supremacy_Official/supremacy-how-to-analyze-transactions-with-cruise-62617bc6ef2d)
+- [Learn new skills to fight financial crime with the Basel Institute’s free eLearning courses and practical resources for law enforcement, anti-money laundering and compliance professionals.](https://learn.baselgovernance.org/enrol/index.php?id=79#section-0)
 - [Smart Contract Auditor Tools and Techniques](https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques)
 - [OnChain Transaction Debugging: 1. Tools](https://github.com/zeayal/xiao-po-zhan/blob/806dfe4530d3e111200e7c5c6fe3f07ccc598ee7/xiaopozhan-front/markdown_smart_contract/Topics/Onchain_debug/01_tools/readme.md)
 - [Comprehensive List of Crypto Research & Analytics Tools](https://collectiveshift.io/tools/crypto-analytics-tools/)
