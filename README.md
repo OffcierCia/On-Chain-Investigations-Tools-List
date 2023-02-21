@@ -140,6 +140,8 @@
 - [dappradar.com](https://dappradar.com)
 - [dextools.io](https://www.dextools.io/app/)
 - [uniwhales.io](https://uniwhales.io)
+- [flipsidecrypto.xyz](https://sdk.flipsidecrypto.xyz/shroomdk)
+- [superchain.network](https://superchain.network)
 - [blocknative.com](https://www.blocknative.com)
 - [secretnodes.com](https://secretnodes.com)
 - [earni.fi](https://earni.fi/)
