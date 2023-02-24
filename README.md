@@ -255,6 +255,8 @@
 - [rugdoc.io](https://rugdoc.io/emergency)
 - [decompile.tools](https://decompile.tools)
 - [hunter.how](https://hunter.how)
+- [cryptowat.ch](https://cryptowat.ch)
+- [dedaub.com](https://dedaub.com)
 - [wagmi.sh](https://wagmi.sh/cli/plugins)
 - [Writehat](https://github.com/blacklanternsecurity/writehat)
 - [solmap.zeppelin.solutions](https://solmap.zeppelin.solutions)
