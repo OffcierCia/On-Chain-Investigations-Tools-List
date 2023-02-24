@@ -253,6 +253,7 @@
 - [tokenterminal.com](https://tokenterminal.com)
 - [poocoin.app](https://poocoin.app)
 - [rugdoc.io](https://rugdoc.io/emergency)
+- [decompile.tools](https://decompile.tools)
 - [hunter.how](https://hunter.how)
 - [wagmi.sh](https://wagmi.sh/cli/plugins)
 - [Writehat](https://github.com/blacklanternsecurity/writehat)
