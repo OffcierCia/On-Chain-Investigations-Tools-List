@@ -279,6 +279,7 @@
 - [nftchecker.io](https://nftchecker.io)
 - [api.checknft.io](https://api.checknft.io/)
 - [web3antivirus.io](https://web3antivirus.io/)
+- [de.fi/scanner](https://de.fi/scanner)
 - [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
 - [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
