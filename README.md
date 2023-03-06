@@ -344,6 +344,8 @@
 - [Blockchain Investigations 101: An Intro to Ethereum](https://youtu.be/mBW7djo_fg8)
 - [Ethereum Security Tools List](https://github.com/stars/pcaversaccio/lists/ethereum-security)
 - [Tornado Cash In-Depth](https://github.com/minaminao/tornado-cats)
+- [OSINT tool SpiderFoot — Scraping Bitcoin addresses and balances](https://cyberrunner.medium.com/bitcoin-addresses-and-balances-scraping-with-osint-tool-spiderfoot-546b7b8269df)
+- [Ethereum Smart Contracts Visualisation Tools: Surya, Solgraph, Slither, Piet, Sol2UML and Sol Function Profiler](https://dreamlab.net/en/blog/post/ethereum-smart-contracts-visualisation-tools-surya-solgraph-slither-piet-sol2uml-and-sol-functi/)
 - [How to Export a Full History of Ethereum Blockchain to S3](https://betterprogramming.pub/how-to-dump-full-ethereum-history-to-s3-296fb3ad175)
 - [Leaked Slides Show How Chainalysis Flags Crypto Suspects for Cops](https://www.youtube.com/watch?v=iq9iw3-fkIE&list=WL&index=115)
 - [UTXO model in Bitcoin Vs Account/Balance Model Ethereum](https://arunrajeevan.medium.com/utxo-model-in-bitcoin-vs-account-balance-model-ethereum-c5b47865e9e1)
