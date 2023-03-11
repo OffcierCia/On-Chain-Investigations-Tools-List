@@ -273,6 +273,8 @@
 - [poocoin.app](https://poocoin.app)
 - [browse.ai](https://browse.ai)
 - [rugdoc.io](https://rugdoc.io/emergency)
+- [tryshadow.xyz](https://tryshadow.xyz)
+- [data.chain.link](https://data.chain.link)
 - [decompile.tools](https://decompile.tools)
 - [hunter.how](https://hunter.how)
 - [cryptowat.ch](https://cryptowat.ch)
