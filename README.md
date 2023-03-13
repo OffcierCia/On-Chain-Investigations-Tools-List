@@ -71,6 +71,7 @@
 **Visualization:**
 
 - [phalcon.blocksec.com](https://phalcon.blocksec.com) & [PhalconV2](https://blocksecteam.medium.com/getting-started-with-phalcon-2-0-253da584ca91)
+- [Phalcon New Link](https://phalcon.xyz/)
 - [Icevision.xyz](https://icevision.xyz/landing)
 - [flourish.studio](https://flourish.studio)
 - [app.bubblemaps.io](https://app.bubblemaps.io/eth)
@@ -157,6 +158,8 @@
 - [superchain.network](https://superchain.network)
 - [blocknative.com](https://www.blocknative.com)
 - [secretnodes.com](https://secretnodes.com)
+- [bytegraph.xyz](https://bytegraph.xyz/)
+- [de.fi/scanner](https://de.fi/scanner)
 - [earni.fi](https://earni.fi/)
 - [Uniscan](https://github.com/uni-arts-chain/uniscan)
 - [purefi.io](https://purefi.io)
@@ -374,6 +377,8 @@
 - [OnChain Transaction Debugging: 1. Tools](https://github.com/zeayal/xiao-po-zhan/blob/806dfe4530d3e111200e7c5c6fe3f07ccc598ee7/xiaopozhan-front/markdown_smart_contract/Topics/Onchain_debug/01_tools/readme.md)
 - [Comprehensive List of Crypto Research & Analytics Tools](https://collectiveshift.io/tools/crypto-analytics-tools/)
 - [messari](https://messari.io)
+- [Whale Watching — On-Chain Analysis Tools In Action](https://medium.com/verum-capital-insights/whale-watching-on-chain-analysis-tools-in-action-25213d0afc59)
+- [Smart Contract Analysis Tools](https://medium.com/coinmonks/smart-contract-analysis-tools-4f87332ec14f)
 - [Blockchain Investigations 101: An Intro to Ethereum](https://youtu.be/mBW7djo_fg8)
 - [Hacking Cryptocurrency Miners with OSINT Techniques by Seyfullah KILIÇ](https://hakin9.org/hacking-cryptocurrency-miners-with-osint-techniques)
 - [Ethereum Security Tools List](https://github.com/stars/pcaversaccio/lists/ethereum-security)
