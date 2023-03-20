@@ -155,6 +155,8 @@
 - [dextools.io](https://www.dextools.io/app/)
 - [uniwhales.io](https://uniwhales.io)
 - [flipsidecrypto.xyz](https://sdk.flipsidecrypto.xyz/shroomdk)
+- [app.blockpour.com](https://app.blockpour.com)
+- [approvals.xyz](https://approvals.xyz)
 - [superchain.network](https://superchain.network)
 - [blocknative.com](https://www.blocknative.com)
 - [secretnodes.com](https://secretnodes.com)
