@@ -474,6 +474,7 @@
 - [Introduction to Bitcoin Investigation by Beatriz Silveira](https://youtu.be/ebXosUmHIoo)
 - [360° AML Analytics](https://youtu.be/zNd4zJEH3ZM)
 - [Visualize the bitcoin blockchain Transforms in Maltego](https://web.archive.org/web/20220629214609/https://www.maltego.com/transform-hub/blockchain-info)
+- [MEV Toolkit](https://github.com/go-outside-labs/mev-toolkit)
 - [Web3 Security Deep Dive](https://web3sec.notion.site/web3sec/Web3-Security-ddaa8bf9a985494dbaf70d698345b899)
 - [How to use OSINT in Cryptocurrency Investigations?](https://medium.com/ax1al/using-osint-to-investigate-cryptocurrency-transactions-7229f64c671a)
 - [Flash Boys 2.0:Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
