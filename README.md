@@ -162,6 +162,8 @@
 - [dappradar.com](https://dappradar.com)
 - [dextools.io](https://www.dextools.io/app/)
 - [uniwhales.io](https://uniwhales.io)
+- [ensideas.com](https://ensideas.com)
+- [ens.vision](https://ens.vision)
 - [flipsidecrypto.xyz](https://sdk.flipsidecrypto.xyz/shroomdk)
 - [app.blockpour.com](https://app.blockpour.com)
 - [approvals.xyz](https://approvals.xyz)
