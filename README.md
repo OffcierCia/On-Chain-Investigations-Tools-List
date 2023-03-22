@@ -402,6 +402,7 @@
 - [Comprehensive List of Crypto Research & Analytics Tools](https://collectiveshift.io/tools/crypto-analytics-tools/)
 - [messari](https://messari.io)
 - [Whale Watching — On-Chain Analysis Tools In Action](https://medium.com/verum-capital-insights/whale-watching-on-chain-analysis-tools-in-action-25213d0afc59)
+- [Deanonymizing OpenSea NFT Owners via Cross-Site Search Vulnerability](https://www.imperva.com/blog/deanonymizing-opensea-nft-owners-via-xs-leaks-vulnerability/)
 - [Smart Contract Analysis Tools](https://medium.com/coinmonks/smart-contract-analysis-tools-4f87332ec14f)
 - [Blockchain Investigations 101: An Intro to Ethereum](https://youtu.be/mBW7djo_fg8)
 - [Hacking Cryptocurrency Miners with OSINT Techniques by Seyfullah KILIÇ](https://hakin9.org/hacking-cryptocurrency-miners-with-osint-techniques)
