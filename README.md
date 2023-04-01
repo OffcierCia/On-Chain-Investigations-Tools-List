@@ -293,6 +293,7 @@
 - [intelx.io](https://intelx.io)
 - [minimax.finance](https://www.minimax.finance/portfolio)
 - [supersight.app](https://supersight.app)
+- [contract-wizard.streamlit.app](https://contract-wizard.streamlit.app/)
 - [kaito.ai](https://www.kaito.ai)
 - [tickr.ai](https://www.tickr.ai)
 - [defillama-extension](https://github.com/DefiLlama/defillama-extension)
