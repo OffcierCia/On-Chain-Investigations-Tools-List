@@ -243,6 +243,7 @@
 - [chainbound](https://apollo.chainbound.io)
 - [forta ENS spoofing](https://github.com/kovart/forta-ens-spoofing)
 - [otterscan.io](https://otterscan.io)
+- [scan.builder0x69.io: otterscan instance without running your own node](https://scan.builder0x69.io/)
 - [tryethernal.com](https://tryethernal.com)
 - [ChainBeat](https://chainbeat.io)
 - [blockdaemon.com](https://blockdaemon.com)
