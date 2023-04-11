@@ -81,6 +81,7 @@
 - [walletLabels.xyz ](https://walletLabels.xyz) & [TLDR](https://twitter.com/aiden0x4/status/1641893726686531601)
 - [shard.ru](https://shard.ru)
 - [analybits](https://analybits.xyz)
+- [pod.xyz](https://pod.xyz/)
 - [flipsidecrypto.xyz](https://flipsidecrypto.xyz)
 - [cosmograph.app](https://cosmograph.app)
 - [parsec.finance](https://parsec.finance)
@@ -410,6 +411,19 @@
 - [diagramify.agiliq.com](http://diagramify.agiliq.com/)
 - [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
 - [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
+- [Portfolio Trackers List](https://sovs.notion.site/Portfolio-141788f1791b4612a8ebfd69a3750a62)
+
+**Hacks DBs**
+
+- [solodit.xyz](https://solodit.xyz/)
+- [defillama.com/hacks](https://defillama.com/hacks)
+- [hacked.slowmist.io](https://hacked.slowmist.io/)
+- [Hacks Retro from officercia.eth](https://officercia.medium.com/retrospective-hacks-in-web3-cc83b8ee0e93)
+- [chainsec.io/defi-hacks](https://chainsec.io/defi-hacks/)
+- [defyield.xyz/rekt-database](https://defyield.xyz/rekt-database)
+- [web3rekt.com](https://www.web3rekt.com/)
+- [newsletter.blockthreat.io](https://newsletter.blockthreat.io/)
+- [rekt.news](https://rekt.news/)
 
 ## II - VR & 3D
 
@@ -435,6 +449,7 @@
 - [Maltego Guide](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
 - [Password OSINT](https://viruszzwarning.medium.com/password-osint-fc4fd750ea8c)
 - [Nickname OSINT](https://t.me/maigret_osint_bot)
+- [Learn EVM Attacks](https://mirror.xyz/assune.eth/Ig7FSwjv01nLDKYWUkZdqmnwnSMP9-Lx1GB7xfsoQ5s)
 - [So you want to start investigating on-chain?](https://twitter.com/thedefiac/status/1512983745988419588)
 - [9 techniques for your blockchain analysis tool](https://cambridge-intelligence.com/blockchain-analysis-tool-techniques/)
 - [Awesome Blockchain Visualisation](https://github.com/xpfio/awesome-blockchain-visualisation)
