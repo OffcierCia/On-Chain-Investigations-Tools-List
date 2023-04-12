@@ -451,6 +451,8 @@
 - [Blocktrace introduces AI chatbot for easy blockchain transaction tracking](https://decrypt.co/124928/blocktrace-introduces-ai-chatbot-for-easy-blockchain-transaction-tracking)
 - [On-chain journalism idea](https://twitter.com/Timccopeland/status/1643203426438860802)
 - [Top 6 tools to enable crypto data visualization in your application](https://surf.dev/top-6-tools-to-enable-crypto-data-visualization-in-your-application/)
+- [Leveraging OSINT to fight financial crime](https://sociallinks.io/webinars/leveraging-osint-to-fight-financial-crime?utm_source=site&utm_medium=webinar&utm_campaign=Financial_Crime_2023_03)
+- [Investigating Cryptocurrency Theft Through OSINT](https://sociallinks.io/investigating-cryptocurrency-theft-through-osint?utm_source=partner&utm_medium=partner)
 - [cookbook.dev](https://www.cookbook.dev/) + [codeslaw.app](https://www.codeslaw.app/)
 - [Maltego Guide](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
 - [Password OSINT](https://viruszzwarning.medium.com/password-osint-fc4fd750ea8c)
