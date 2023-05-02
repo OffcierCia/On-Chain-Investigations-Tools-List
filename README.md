@@ -50,6 +50,7 @@
 - [ethplorer.io](https://ethplorer.io)
 - [cryptoflows.info](https://cryptoflows.info)
 - [parsiq.net](https://www.parsiq.net)
+- [Etherscan Transforms for Maltego](https://www.maltego.com/transform-hub/etherscan/)
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [cielo.finance](https://cielo.finance/)
 - [AI+Blockchain Tracking](https://twitter.com/betashop/status/1643529200375066626)
