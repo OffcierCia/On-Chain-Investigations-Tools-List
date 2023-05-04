@@ -463,6 +463,7 @@
 ## III - Monero
 
 - [How one can deanonymize Monero to a certain degree of probability?](https://graph.org/How-one-can-deanonymize-Monero-to-a-certain-degree-of-probability-11-19)
+- [Monero: All About the Top Privacy Coin](https://blog.chainalysis.com/reports/all-about-monero/)
 
 ## IV - Knowledge Hub
 
