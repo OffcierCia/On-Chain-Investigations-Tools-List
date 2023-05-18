@@ -471,6 +471,7 @@
 - [Due Diligence](https://www.investopedia.com/terms/d/duediligence.asp)
 - [Visualization of Blockchain Data: A Systematic Review](https://www.researchgate.net/publication/338238265_Visualization_of_Blockchain_Data_A_Systematic_Review)
 - [Blocktrace introduces AI chatbot for easy blockchain transaction tracking](https://decrypt.co/124928/blocktrace-introduces-ai-chatbot-for-easy-blockchain-transaction-tracking)
+- [Oracles No More: A Guide to Obtaining Onchain Historical Data for Smart Contracts on Ethereum](https://medium.com/@alexeuler/oracles-no-more-a-guide-to-obtaining-onchain-historical-data-for-smart-contracts-on-ethereum-9133bb1be4c7)
 - [Dune Manual](https://www.notion.so/12-Days-of-Dune-2022-2c30c5a875ce4650b19c1ef7dd60a11d)
 - [Typical hacker errors leading to deanon](https://www.hackerplace.org/post/typical-hacker-errors-leading-to-deanon)
 - [Address Poisoning / Address Mapping (How does Chainalysis work with mixers); Dusting Attack](https://telegra.ph/Address-Poisoning--Address-Mapping-04-21)
