@@ -44,6 +44,7 @@
 - [Dune Extension: Web3 Wizard Helper](https://chrome.google.com/webstore/detail/web3-wizard-helper/aefehogbbakpjjegponcmdnkfjipdcfl) & [TLDR](https://twitter.com/techgeorgii/status/1633818275560710145)
 - [Dune Manual](https://www.notion.so/12-Days-of-Dune-2022-2c30c5a875ce4650b19c1ef7dd60a11d)
 - [Dune SQL](https://dune.com/blog/introducing-dune-sql)
+- [SQL views for Dune](https://github.com/duneanalytics/spellbook)
 - [Dune CandleStick Chart](https://twitter.com/WizardQL/status/1638963399265783808) & [more](https://twitter.com/wizardql/status/1639284900925669377)
 - [Dune: Token Holders](https://dune.com/dcfpascal/token-holders)
 - [Dune: Get All TXs](https://dune.xyz/queries/64441/128469)
