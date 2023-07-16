@@ -38,6 +38,7 @@
 - [0xscope.com](https://0xscope.com)
 - [dune.xyz](https://dune.xyz)
 - [snapp.wtf](https://snapp.wtf)
+- [zettablock.com](https://www.zettablock.com/)
 - [duneninja.com for dune.xyz](https://duneninja.com)
 - [Dune Dashboard](https://twitter.com/andrewhong5297/status/1608494653573062658)
 - [Dune Extension: Web3 Wizard Helper](https://chrome.google.com/webstore/detail/web3-wizard-helper/aefehogbbakpjjegponcmdnkfjipdcfl) & [TLDR](https://twitter.com/techgeorgii/status/1633818275560710145)
