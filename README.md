@@ -210,6 +210,7 @@
 - [superchain.network](https://superchain.network)
 - [blocknative.com](https://www.blocknative.com)
 - [secretnodes.com](https://secretnodes.com)
+- [txstreet.com](https://txstreet.com/)
 - [bytegraph.xyz](https://bytegraph.xyz/)
 - [de.fi/scanner](https://de.fi/scanner)
 - [metropolis.space](https://www.metropolis.space/)
