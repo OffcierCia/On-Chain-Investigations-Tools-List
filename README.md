@@ -191,6 +191,7 @@
 - [the wallet analyzooor Main](https://analyzooor.super.site)
 - [the wallet analyzooor No.2](https://0xrdt-the-wallet-analyzooor-appmain-page-d9lsre.streamlitapp.com)
 - [hal.xyz](https://www.hal.xyz), example: [9000.hal.xyz](https://9000.hal.xyz); [TLDR](https://twitter.com/HAL_team/status/1460960434597470210) & [docs](https://docs.hal.xyz/docs)
+- [tx.cool](https://www.tx.cool/)
 - [bytegraph.xyz](https://bytegraph.xyz)
 - [cryptocurrency search OSINT tool](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)
 - [Gephi](https://gephi.org/users/download)
