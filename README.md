@@ -195,6 +195,7 @@
 - [bytegraph.xyz](https://bytegraph.xyz)
 - [cryptocurrency search OSINT tool](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)
 - [Gephi](https://gephi.org/users/download)
+- [Pessimistic Spotter](https://t.me/attackdetectorbot)
 - [Tenderly Explorer](https://docs.tenderly.co/explorer)
 - [RolodETH Ethereum tag system](https://github.com/verynifty/RolodETH)
 - [ethcmd](https://github.com/bit-warrior/ethcmd)
