@@ -77,7 +77,7 @@
 - [spiderfoot.net](https://spiderfoot.net)
 - [AmberData](https://docs.amberdata.io/reference/reference-getting-started)
 - [blockhead.info](https://blockhead.info)
-- [smarttrust.io](https://smarttrust.io)
+- [ChainAware.ai](https://chainaware.ai/)
 - [sharkteam.org](https://www.sharkteam.org)
 - [openchain.xyz](https://openchain.xyz/)
 - [monobase.xyz](https://monobase.xyz/)
