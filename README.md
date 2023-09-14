@@ -693,6 +693,7 @@
 - [Verifying Smart Contracts using Blockscout](https://youtu.be/My4mfB43NPA)
 - [Maltego Ethereum Transform with SocialLinks and Bloxy.info - How to start](https://youtu.be/ml4JpqSGZik)
 - [Using Maltego and tatum to track the money trail of a bitcoin scam](https://blog.tatum.io/using-maltego-and-tatum-to-track-the-money-trail-of-a-bitcoin-scam-639ee5727dde)
+- [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
 - [How To Investigate Cryptocurrency Crimes Using Blockchain Explorers & OSINT Tools](https://web.archive.org/web/20220820023651/https://www.1337pwn.com/how-to-investigate-cryptocurrency-crimes-using-blockchain-explorers-and-osint-tools)
 - [Tracking A Bitcoin Scam with Maltego & Tatum](https://youtu.be/0CnElCSQTF0)
 - [Dune analytics guide](https://collectiveshift.io/tools/dune-analytics-guide)
