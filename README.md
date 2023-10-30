@@ -28,6 +28,8 @@
 
 **Data-Analysis:**
 
+> Easy [Quick Start](https://www.linkedin.com/pulse/easy-quick-start-guide-crypto-data-analytics-0xdatawolf--pzjlc/) Guide For Crypto Data Analytics
+
 - [nansen.ai](https://nansen.ai)
 - [metasleuth.io](https://metasleuth.io)
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
@@ -552,6 +554,7 @@
 - [Hacking Cryptocurrency Miners with OSINT Techniques by Seyfullah KILIÇ](https://hakin9.org/hacking-cryptocurrency-miners-with-osint-techniques)
 - [Ethereum Security Tools List](https://github.com/stars/pcaversaccio/lists/ethereum-security)
 - [Tornado Cash In-Depth](https://github.com/minaminao/tornado-cats)
+- [Easy Quick Start Guide For Crypto Data Analytics](https://www.linkedin.com/pulse/easy-quick-start-guide-crypto-data-analytics-0xdatawolf--pzjlc/)
 - [OSINT tool SpiderFoot — Scraping Bitcoin addresses and balances](https://cyberrunner.medium.com/bitcoin-addresses-and-balances-scraping-with-osint-tool-spiderfoot-546b7b8269df)
 - [4 use-cases for Sankey Charts](https://towardsdatascience.com/4-use-cases-for-sankey-charts-679b94f7c672)
 - [A Sankey diagram of the monetary flows example](https://www.researchgate.net/figure/A-Sankey-diagram-of-the-monetary-flows-of-all-transactions-that-make-up-the-UK-balance-of_fig6_264981636)
