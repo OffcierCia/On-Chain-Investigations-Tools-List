@@ -61,6 +61,8 @@
 - [eigenphi.io/mev/eigentx](https://eigenphi.io/mev/eigentx)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
 - [glassnode.com](https://glassnode.com)
+- [unleashnfts.com](https://unleashnfts.com/)
+- [bitscrunch.com](https://bitscrunch.com/)
 - [metrika.co](https://metrika.co/)
 - [thegraph.com](https://thegraph.com/)
 - [ledgerql.com](https://ledgerql.com)
