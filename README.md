@@ -115,6 +115,7 @@
 - [ethtective.com](https://ethtective.com)
 - [breadcrumbs.app](https://breadcrumbs.app)
 - [orion.ninja](https://orion.ninja)
+- [blockhead.info](https://blockhead.info)
 - [Smart Contract Visualization](https://twitter.com/danielvf/status/1637815201243320320) & [TLDR](https://twitter.com/danielvf/status/1637806591759077378)
 - [BloodHound](https://www.thehacker.recipes/ad/recon/bloodhound)
 - [Anitanalysis - open in TorBrowser](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion)
