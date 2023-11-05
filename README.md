@@ -128,6 +128,7 @@
 - [The Interceptor](https://www.youtube.com/watch?v=Noxik2pZWV4)
 - [upgradehub.xyz](https://telegra.ph/How-to-use-upgradehubxyz-03-24)
 - [oxt.me](https://oxt.me)
+- [chainedge.io](https://www.chainedge.io/)
 - [blocktrace.com](https://www.blocktrace.com)
 - [BlockTrace AI Robot for Bitcoin transactions tracking](https://www.blocktrace.com/robby-the-ai-robot-specializing-in-bitcoin-sign-up/)
 - [anchain.ai](https://twitter.com/anchainai)
