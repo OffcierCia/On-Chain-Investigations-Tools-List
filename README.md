@@ -30,6 +30,7 @@
 
 > Easy [Quick Start](https://www.linkedin.com/pulse/easy-quick-start-guide-crypto-data-analytics-0xdatawolf--pzjlc/) Guide For Crypto Data Analytics
 
+- [De-mixing TornadoCash & RailGun](https://x.com/officer_cia/status/1742939031615221914)
 - [nansen.ai](https://nansen.ai)
 - [metasleuth.io](https://metasleuth.io)
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
