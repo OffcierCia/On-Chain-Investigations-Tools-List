@@ -96,6 +96,7 @@
 - [cosmograph.app](https://cosmograph.app)
 - [parsec.finance](https://parsec.finance)
 - [jsoncrack.com](https://jsoncrack.com)
+- [sentio.xyz](https://app.sentio.xyz)
 
 **Visualization:**
 
@@ -174,6 +175,7 @@
 - [coinfirm.com](https://www.coinfirm.com/products/coinfirm-analytics)
 - [NFT icy.tools](https://icy.tools)
 - [ENS chainstory.xyz](https://www.chainstory.xyz)
+- [Sentio Explorer](https://app.sentio.xyz/explorer)
 
 **Clusterizers:**
 
