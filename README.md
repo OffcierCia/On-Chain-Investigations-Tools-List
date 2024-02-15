@@ -78,6 +78,7 @@
 - [skynet.certik.com](https://skynet.certik.com/)
 - [sol2uml](https://github.com/naddison36/sol2uml)
 - [evm-trace](https://github.com/ApeWorX/evm-trace)
+- [syve.ai](https://www.syve.ai/)
 - [spiderfoot.net](https://spiderfoot.net)
 - [AmberData](https://docs.amberdata.io/reference/reference-getting-started)
 - [blockhead.info](https://blockhead.info)
