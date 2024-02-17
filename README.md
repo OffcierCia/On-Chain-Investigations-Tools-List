@@ -17,7 +17,7 @@
 
 > **In [this](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw) article I will tell you exactly how I investigate crypto hacks and security incidents, and describe methodology!**
 
-- [If you have been scammed…](https://officercia.medium.com/if-you-have-been-scammed-9ce21ee120e6)
+- [If you have been scammed…](https://officercia.medium.com/awesome-on-chain-investigations-handbook-2-0-3acc7153c421)
 - [Thank you, vice.com, for a mention!](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
 
 ## I - Tools List
