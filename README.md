@@ -479,6 +479,7 @@
 - [visualizing bitcoin transactions in 3d and virtual reality](https://medium.com/coinmonks/visualizing-bitcoin-transactions-in-3d-and-virtual-reality-e3e28b3055df)
 - [bitcoin visualizations](https://www.lopp.net/bitcoin-information/visualizations.html)
 - [blockchain3d](https://blockchain3d.info/assets/webgl/index.html)
+- [AR Investigations Concept](https://x.com/officer_cia/status/1759912873931796928)
 
 ## III - Monero
 
