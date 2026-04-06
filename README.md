@@ -60,6 +60,7 @@
 - [Etherscan Transforms for Maltego](https://www.maltego.com/transform-hub/etherscan/)
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [cielo.finance](https://cielo.finance/)
+- [xhuntr.com](https://xhuntr.com) - X (Twitter) community sniper — real-time Telegram alerts when alpha hunters create/join X communities, post CAs before tweeting publicly, or multiple tracked accounts converge on the same community (social layer before on-chain)
 - [AI+Blockchain Tracking](https://twitter.com/betashop/status/1643529200375066626)
 - [List of Tools by Alchemy](https://www.alchemy.com/top/defi-tools)
 - [eigenphi.io/mev/eigentx](https://eigenphi.io/mev/eigentx)
