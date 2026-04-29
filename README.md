@@ -811,3 +811,4 @@ You can also send me a donation to the address from [this repository](https://gi
 Thank you! 🙏
 
 #
+- [RustChain](https://github.com/Scottcjn/Rustchain) — DePIN blockchain in Rust with Proof-of-Coverage consensus, bounty system, and miner network.
