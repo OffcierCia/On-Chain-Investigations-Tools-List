@@ -62,6 +62,7 @@
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [cielo.finance](https://cielo.finance/)
 - [AI+Blockchain Tracking](https://twitter.com/betashop/status/1643529200375066626)
+- [intel.twzrd.xyz](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Preflight checks verify wallet trust + identity signals on-chain; signed USDC receipt confirms trust score. MCP: `https://intel.twzrd.xyz/mcp`
 - [List of Tools by Alchemy](https://www.alchemy.com/top/defi-tools)
 - [eigenphi.io/mev/eigentx](https://eigenphi.io/mev/eigentx)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
