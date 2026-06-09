@@ -338,6 +338,7 @@
 - [Valid.Network](https://valid.network/crypto-insights)
 - [Draw EVM contract byte code](https://github.com/DanielVF/evm-contract-draw)
 - [Twitter Social Graph](https://github.com/Nican/Furland)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X data API, MCP server, SDKs, and webhooks for public tweet search, account lookup, follower export, monitors, and media workflows that add off-chain social context to crypto investigations.
 - [chainbroker.io](https://chainbroker.io)
 - [cryptofees.info](https://cryptofees.info)
 - [stablecoins.wtf](https://stablecoins.wtf)
