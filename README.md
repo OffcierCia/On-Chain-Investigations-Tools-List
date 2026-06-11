@@ -32,6 +32,7 @@
 
 - [De-mixing TornadoCash & RailGun](https://x.com/officer_cia/status/1742939031615221914)
 - [nansen.ai](https://nansen.ai)
+- [deepbluealpha.io](https://deepbluealpha.io) - Real-time Ethereum whale wallet tracker — monitors 10,000+ wallets block-by-block, net flow per token across 1H/24H/7D windows, free public API, no signup required
 - [onchainrisk.io](https://onchainrisk.io) - multi-chain wallet analysis, risk scoring, fund flow tracing
 - [rektradar.io](https://rektradar.io/) - Ethereum scam detector with mempool monitoring, deployer-graph clustering and factory-pattern detection. Surfaces 80+ on-chain flags per contract, groups related scams by common funder, free unlimited web checks.
 - [metasleuth.io](https://metasleuth.io)
