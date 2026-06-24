@@ -812,3 +812,7 @@ You can also send me a donation to the address from [this repository](https://gi
 Thank you! 🙏
 
 #
+
+
+## Web3 & Security
+- [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Rug pull detection via ChainAware. Free: 3/day, API: POST /cve {"keyword": "ethereum"}
