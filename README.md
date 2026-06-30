@@ -104,6 +104,7 @@
 - [jsoncrack.com](https://jsoncrack.com)
 - [sentio.xyz](https://app.sentio.xyz)
 - [chartscout.io](https://chartscout.io/)
+- [maketo.com](https://maketo.com/) - Free Bitcoin dashboard covering cycle, valuation, holder behavior, network health, ETF flows, Bitcoin news, composite gauges, and a Fear & Greed index, all explained in plain English.
 
 
 **Visualization:**
