@@ -195,7 +195,7 @@
 - [TRM Labs](https://www.trmlabs.com/products/forensics)
 - [scorechain.com](https://www.scorechain.com)
 - [CoinPath](https://bitquery.io/products/coinpath)
-- [cryptoaml.ai](https://cryptoaml.ai) - free AML checker for 30+ blockchains (BTC, ETH, USDT/TRC20, TRX, SOL, BNB) — OFAC sanctions, darknet exposure & risk score, no registration required
+- [cryptoaml.ai](https://cryptoaml.ai) - free AML checker for BTC, ETH & TRX/USDT-TRC20 — OFAC sanctions, darknet exposure & risk score, no registration required
 - [Storyline](https://blog.chainalysis.com/reports/introducing-chainalysis-storyline)
 - [metadock](https://github.com/blocksecteam/metadock)
 - [SpyderLab AML](https://spyderlab.org)
