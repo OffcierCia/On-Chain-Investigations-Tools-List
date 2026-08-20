@@ -221,6 +221,7 @@
 - [dappradar.com](https://dappradar.com)
 - [dextools.io](https://www.dextools.io/app/)
 - [uniwhales.io](https://uniwhales.io)
+- [deepbluealpha.io](https://deepbluealpha.io) — Real-time Ethereum whale intelligence. Tracks 23,000+ whale wallets with live feed, sentiment index, conviction scoring, and alerts.
 - [ensideas.com](https://ensideas.com)
 - [ens.vision](https://ens.vision)
 - [flipsidecrypto.xyz](https://sdk.flipsidecrypto.xyz/shroomdk)
