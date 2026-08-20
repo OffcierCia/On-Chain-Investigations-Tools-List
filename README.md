@@ -198,6 +198,7 @@
 - [Storyline](https://blog.chainalysis.com/reports/introducing-chainalysis-storyline)
 - [metadock](https://github.com/blocksecteam/metadock)
 - [SpyderLab AML](https://spyderlab.org)
+- [PublicAML](https://publicaml.org) - free non-profit AML/KYT & sanctions screening for BTC/ETH/BNB/TRON, no API key
 
 **Specific:**
 
