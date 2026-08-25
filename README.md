@@ -481,6 +481,7 @@
 - [web3rekt.com](https://www.web3rekt.com/)
 - [newsletter.blockthreat.io](https://newsletter.blockthreat.io/)
 - [rekt.news](https://rekt.news/)
+- [telem.news/security/incidents](https://telem.news/security/incidents)
 
 ## II - VR & 3D
 
