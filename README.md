@@ -417,6 +417,7 @@
 - [Yet another awesome list of doxxed EVM wallets](https://twitter.com/krinweb3/status/1631087086874001408)
 - [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
 - [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
+- [Base Transaction Decoder](https://0200project.com)
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
 - [bitaml.com](https://bitaml.com)
 - [btcrecover](https://github.com/gurnec/btcrecover)
