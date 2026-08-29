@@ -35,6 +35,7 @@
 - [onchainrisk.io](https://onchainrisk.io) - multi-chain wallet analysis, risk scoring, fund flow tracing
 - [rektradar.io](https://rektradar.io/) - Ethereum scam detector with mempool monitoring, deployer-graph clustering and factory-pattern detection. Surfaces 80+ on-chain flags per contract, groups related scams by common funder, free unlimited web checks.
 - [metasleuth.io](https://metasleuth.io)
+- [polymarketscan.org/whale-tracker](https://polymarketscan.org/whale-tracker) - Independent Polymarket explorer for wallet records and whale prints (no signup)
 - [rolod0x.io](https://rolod0x.io/) - private open source address book, works on any site/chain
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
 - [Explorers List](https://sovs.notion.site/Block-Explorers-8dcaed059c844e3b8f9b67b8eb90174a)
