@@ -79,6 +79,7 @@
 - [tx2uml](https://github.com/naddison36/tx2uml) & [Tx2uml Example](https://twitter.com/naddison/status/1633959965990977537) & [tx2uml v1.1.19](https://twitter.com/naddison/status/1640559616890392576)
 - [oklink.com](https://www.oklink.com/en)
 - [tokenscope.com](https://tokenscope.com/)
+- [cryptostrapon.com](https://cryptostrapon.com/) - Free AI-powered tool for investigating and detecting crypto scams (rug pulls, phishing, wallet drainers, fake token launches)
 - [skynet.certik.com](https://skynet.certik.com/)
 - [sol2uml](https://github.com/naddison36/sol2uml)
 - [evm-trace](https://github.com/ApeWorX/evm-trace)
