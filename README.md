@@ -198,6 +198,7 @@
 - [Storyline](https://blog.chainalysis.com/reports/introducing-chainalysis-storyline)
 - [metadock](https://github.com/blocksecteam/metadock)
 - [SpyderLab AML](https://spyderlab.org)
+- [FreezeRadar](https://freezeradar.com) - free USDT/USDC/PAXG wallet blacklist and sanctions checker for freezeable-asset risk
 
 **Specific:**
 
