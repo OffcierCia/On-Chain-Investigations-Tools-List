@@ -741,6 +741,7 @@
 - [SWIFT Kyc](https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/kyc-registry)
 - [Follow My Twitter](https://twitter.com/officer_cia)
 - [My Article](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
+- [Onchain Diary — Web3 security education & on-chain fraud investigation guides](https://theonchaindiary.com/)
 
 ## V - Follow
 
