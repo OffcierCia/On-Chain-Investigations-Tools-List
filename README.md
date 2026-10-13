@@ -481,6 +481,7 @@
 - [web3rekt.com](https://www.web3rekt.com/)
 - [newsletter.blockthreat.io](https://newsletter.blockthreat.io/)
 - [rekt.news](https://rekt.news/)
+- [RugCheck AI](https://rugcheckai.io) - Paste a token name, contract address, or DexScreener link to get a 0-100 risk score with plain-language red flags; analyzes liquidity, holder distribution & contract permissions using live DexScreener and GoPlus data; works with every major chain; free tier (5 scans/24h) and a REST API.
 
 ## II - VR & 3D
 
