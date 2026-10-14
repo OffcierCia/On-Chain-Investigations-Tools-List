@@ -104,7 +104,7 @@
 - [jsoncrack.com](https://jsoncrack.com)
 - [sentio.xyz](https://app.sentio.xyz)
 - [chartscout.io](https://chartscout.io/)
-
+- [hopchain.io](https://hopchain.io) - free, no-signup multi-chain wallet explorer: connection graph, known-entity labels, scam and sanction flags, pairwise and bulk Sybil/cluster check (Ethereum, BNB Chain, Polygon, Arbitrum, Base, Tron, Solana and more)
 
 **Visualization:**
 
