@@ -34,6 +34,7 @@
 - [nansen.ai](https://nansen.ai)
 - [onchainrisk.io](https://onchainrisk.io) - multi-chain wallet analysis, risk scoring, fund flow tracing
 - [rektradar.io](https://rektradar.io/) - Ethereum scam detector with mempool monitoring, deployer-graph clustering and factory-pattern detection. Surfaces 80+ on-chain flags per contract, groups related scams by common funder, free unlimited web checks.
+- [Hydromancer](https://hydromancer.xyz) - Hyperliquid data API for tracing wallets: fills, positions, liquidations and ledger history per address, L2/L4 order books, plus Reservoir, a free archive of every Hyperliquid trade since July 2025 as daily Parquet files.
 - [metasleuth.io](https://metasleuth.io)
 - [rolod0x.io](https://rolod0x.io/) - private open source address book, works on any site/chain
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
