@@ -104,6 +104,7 @@
 - [jsoncrack.com](https://jsoncrack.com)
 - [sentio.xyz](https://app.sentio.xyz)
 - [chartscout.io](https://chartscout.io/)
+- [tokensonar.com](https://tokensonar.com/data/) - institutional adoption scores (0-100) per coin from spot-ETF assets, institutional partners and on-chain RWA value, free JSON dataset
 
 
 **Visualization:**
