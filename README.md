@@ -230,6 +230,7 @@
 - [secretnodes.com](https://secretnodes.com)
 - [bytegraph.xyz](https://bytegraph.xyz/)
 - [de.fi/scanner](https://de.fi/scanner)
+- [trnch.fun/tia](https://trnch.fun/tia) - Robinhood Chain token screening (rugs, honeypots, sell tax) with public track record
 - [metropolis.space](https://www.metropolis.space/)
 - [ApeWorX/ape: Python](https://github.com/ApeWorX/ape)
 - [Forta Contract Simil](https://github.com/Soptq/forta-contract-simil)
