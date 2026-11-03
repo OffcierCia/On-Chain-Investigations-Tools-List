@@ -338,6 +338,7 @@
 - [Valid.Network](https://valid.network/crypto-insights)
 - [Draw EVM contract byte code](https://github.com/DanielVF/evm-contract-draw)
 - [Twitter Social Graph](https://github.com/Nican/Furland)
+- [Crypto KOL Checker: bot score for any crypto X account](https://twtdata.com/crypto-kol-checker/)
 - [chainbroker.io](https://chainbroker.io)
 - [cryptofees.info](https://cryptofees.info)
 - [stablecoins.wtf](https://stablecoins.wtf)
