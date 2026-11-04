@@ -104,6 +104,7 @@
 - [jsoncrack.com](https://jsoncrack.com)
 - [sentio.xyz](https://app.sentio.xyz)
 - [chartscout.io](https://chartscout.io/)
+- [cryptokeyhole.com](https://cryptokeyhole.com/) - Bitcoin and Ethereum on-chain metrics computed from its own nodes, such as exchange flows, exchanges' published reserve addresses and frozen stablecoin supply, with the method on each chart. Free series via a keyless JSON API (CC BY 4.0); some data needs a paid plan.
 
 
 **Visualization:**
