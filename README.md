@@ -469,6 +469,7 @@
 - [Portfolio Trackers List](https://sovs.notion.site/Portfolio-141788f1791b4612a8ebfd69a3750a62)
 - [Forta Attack Detector](https://app.forta.network/attack-detector)
 - [Forta Scam Detector](https://app.forta.network/scam-detector)
+- [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) - Bitcoin command line tool: decode OP_RETURN messages and inscriptions, inspect addresses and transactions, and verify a transaction against its block's Merkle proof
 
 **Hacks DBs**
 
