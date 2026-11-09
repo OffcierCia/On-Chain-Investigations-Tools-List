@@ -481,6 +481,7 @@
 - [web3rekt.com](https://www.web3rekt.com/)
 - [newsletter.blockthreat.io](https://newsletter.blockthreat.io/)
 - [rekt.news](https://rekt.news/)
+- [XRPL.to scam API](https://xrpl.to/docs/scams) - XRP Ledger scam and drainer wallet checks, phishing domains and scam NFT flags
 
 ## II - VR & 3D
 
