@@ -275,6 +275,7 @@
 - [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 - [whatsABI](https://github.com/shazow/whatsabi)
 - [EVMole](https://github.com/cdump/evmole)
+- [EVMole Decompiler: evmole.com](https://evmole.com/)
 - [abi guesser](https://github.com/samczsun/abi-guesser)
 - [eth-txns.vercel.app](https://eth-txns.vercel.app/) & [Deployed Code](https://github.com/shreyvijayvargiya/EthTxns)
 - [Visualize ERC20 token transfers in Truffle Tests](https://www.npmjs.com/package/truffle-token-test-utils)
